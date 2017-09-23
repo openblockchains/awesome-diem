@@ -63,7 +63,9 @@
 > -- [Xavier Decuyper @ Writing a Tiny Blockchain in JavaScript](https://www.savjee.be/2017/07/Writing-tiny-blockchain-in-JavaScript/)
 
 
-
+> Blockchain is a distributed database with a set of rules for verifying new additions to the database.
+>
+> -- [Eric Munsing @ Build Your Own Blockchain: A Python Tutorial](http://ecomunsing.com/build-your-own-blockchain)
 
 
 
