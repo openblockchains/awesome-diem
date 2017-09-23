@@ -25,6 +25,14 @@
 > -- [Gerald Nash @ Let's Build the Tiniest Blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
 
 
+> Blockchain is a public database that consists out of blocks that anyone can read.
+> Nothing special, but they have an interesting property: they are immutable.
+> Once a block has been added to the chain, it cannot be changed anymore without invalidating the rest of the chain.
+>
+> -- [Xavier Decuyper @ Writing a Tiny Blockchain in JavaScript](https://www.savjee.be/2017/07/Writing-tiny-blockchain-in-JavaScript/)
+
+
+
 
 
 
@@ -44,6 +52,25 @@
 >
 > -- Don & Alex Tapscott, Blockchain Revolution (2016)
 
+
+> Blockchain is the magic sauce that will power all the world's financial transactions 
+> and unlock the great decentralized database in the sky.
+>
+> -- Snake Oil Purveyors
+
+
+> Blockchain is a provably-immutable append-only data log with transaction validation based on asymmetric crypto,
+> and (optionally) a Byzantine-generals solution too! 
+>
+> -- [Tim Bray @ I Don't Believe in Blockchain](https://www.tbray.org/ongoing/When/201x/2017/05/13/Not-Believing-in-Blockchain)
+
+
+> Blockchain is really a fairly old set of ideas - merkle hash trees, distributed databases etc. 
+> The novelty, if any, is in a convergence of different methods and new levels of efficiency. 
+> This is the stuff of solid, and valuable, progress.
+> But it isn't a revolution in governance, production or the structure of society.
+>
+> -- [Rufus Pollock @ Reflections on the Blockchain](http://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/)
 
 
 
