@@ -17,6 +17,37 @@
 > -- [Blockchain @ Wikipedia](https://en.wikipedia.org/wiki/Blockchain)
 
 
+> [Blockchain is ...] a solution to the double-spending problem using a peer-to-peer network. 
+> The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, 
+> forming a record that cannot be changed without redoing the proof-of-work. 
+> The longest chain not only serves as proof of the sequence of events witnessed, 
+> but proof that it came from the largest pool of CPU power... 
+> The network itself requires minimal structure.
+>
+> -- Satoshi Nakamoto @ Bitcoin Whitepaper
+
+
+> Blockchain [data structure] is an ordered, back-linked list of blocks of transactions. 
+> The blockchain can be stored as a flat file, or in a simple database. 
+> The Bitcoin Core client stores the blockchain metadata using Google's LevelDB database. 
+> Blocks are linked "back," each referring to the previous block in the chain. 
+> The blockchain is often visualized as a vertical stack, with blocks layered on top of each other 
+> and the first block serving as the foundation of the stack. 
+> The visualization of blocks stacked on top of each other results in the use of terms such as "height" 
+> to refer to the distance from the first block, and "top" or "tip" to refer to the most recently added block.
+>
+> Each block within the blockchain is identified by a hash, generated using the SHA256 cryptographic hash algorithm 
+> on the header of the block. Each block also references a previous block, known as the parent block, 
+> through the "previous block hash" field in the block header. 
+> In other words, each block contains the hash of its parent inside its own header. 
+> The sequence of hashes linking each block to its parent creates a chain going back all the way to the first block ever created, 
+> known as the genesis block.
+>
+> -- [Andreas M. Antonopoulos @ Mastering Bitcoin: Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook/blob/second_edition/ch09.asciidoc)
+
+
+
+
 > Blockchain is a public database where new data are stored in a container called a block 
 > and are added to an immutable chain (hence blockchain) with data added in the past.
 > In the case of Bitcoin and other cryptocurrencies, these data are groups of transactions. 
