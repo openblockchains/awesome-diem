@@ -74,11 +74,6 @@
 >
 > -- [Google Search: Blockchain Definition](https://www.google.com/search?q=blockchain+definition)
 
-> Blockchain is a shared, immutable ledger for recording the history of transactions. 
-> It fosters a new generation of transactional applications that establish trust, accountability and transparency - from contracts to deeds to payments.
->
-> -- [IBM Blockchain](https://ibm.com/blockchain) 
-
 
 > Blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record 
 > not just financial transactions but virtually everything of value.
@@ -86,7 +81,31 @@
 > -- Don & Alex Tapscott, Blockchain Revolution (2016)
 
 
-> Blockchain is the magic sauce that will power all the world's financial transactions 
+> Blockchain is a data structure that makes it possible to create a digital
+> ledger of data and share it among a network of independent parties. 
+>
+> -- Tiana Laurence @ Blockchain for Dummies (2017)
+
+
+> Blockchain is a shared, distributed ledger that facilitates the process
+> of recording transactions and tracking assets in a business network.
+> An asset can be tangible - a house, a car, cash, land - or intagible
+> like intellectual property, such as patents, copyrights, or branding.
+> Virtually anything of value can be tracked or traded on a blockchain 
+> network, reducing risk and cutting costs for all involved.
+>
+> -- Manav Gupta @ Blockchain for Dummies - IBM Limited Edition (2017)
+
+
+> Blockchain is a shared, immutable ledger for recording the history of transactions. 
+> It fosters a new generation of transactional applications that establish trust, 
+> accountability and transparency - from contracts to deeds to payments.
+>
+> -- [IBM Blockchain](https://ibm.com/blockchain) 
+
+
+
+> Blockchain is the magic that will power all the world's financial transactions 
 > and unlock the great decentralized database in the sky.
 >
 > -- Snake Oil Purveyors
