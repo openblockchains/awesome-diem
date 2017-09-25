@@ -89,7 +89,7 @@
 
 > Blockchain is a shared, distributed ledger that facilitates the process
 > of recording transactions and tracking assets in a business network.
-> An asset can be tangible - a house, a car, cash, land - or intagible
+> An asset can be tangible - a house, a car, cash, land - or intangible
 > like intellectual property, such as patents, copyrights, or branding.
 > Virtually anything of value can be tracked or traded on a blockchain 
 > network, reducing risk and cutting costs for all involved.
