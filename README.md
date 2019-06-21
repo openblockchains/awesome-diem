@@ -80,7 +80,7 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 
 - [The Official Libra Byzantine Fault Tolerance (BFT): State Machine Replication in the Blockchain White Paper - Web Version](https://developers.libra.org/docs/state-machine-replication-paper), [PDF Download (~300k, 41 Pages)](libra-consensus-whitepaper.pdf) 
 
-> This report presents LibraBFT, a robust and efficient state machine replication system designed for the Libra Blockchain.
+> **Abstract**: This report presents LibraBFT, a robust and efficient state machine replication system designed for the Libra Blockchain.
 > LibraBFT is based on HotStuff, a recent protocol that leverages several decades of scientific advances in Byzantine fault tolerance (BFT)
 > and achieves the strong scalability and security properties required by internet settings. LibraBFT further refines the HotStuff
 > protocol to introduce explicit liveness mechanisms and provides a concrete latency analysis. To drive the integration with the Libra
