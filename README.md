@@ -55,9 +55,9 @@ github: [`libra`](https://github.com/libra)
 > builds on the stability and reputation of existing institutions in the early days but transitions to a
 > fully open system over time.
 
-### Move
+### Move Programming Language
 
-_The Contract-Oriented Programming Language for Digital (Blockchain) Resources / Assets_
+_The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Resources / Assets_
 
 - [The Official Move: A Language With Programmable Resources White Paper - Web Version](https://developers.libra.org/docs/move-paper), [PDF Download (~200k, 26 Pages)](move-whitepaper.pdf) 
 
