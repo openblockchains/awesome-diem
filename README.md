@@ -15,7 +15,14 @@ web: [`libra.org`](https://libra.org)
 >
 > This document outlines our plans for a new decentralized blockchain, a low-volatility cryptocurrency, 
 > and a smart contract platform that together aim to create a new opportunity for responsible financial services innovation.
-  
+
+## Currency / Money
+
+Libra is a stablecoin backed by a basket of currencies, and US Treasury securities in an attempt to avoid volatility (and speculation). 
+Facebook has announced that each of the (100?) partners will stake an initial US$10 million, so Libra is backed by US$1 billion of solid currency, on the day it opens.
+
+(Source: [Libra (cryptocurrency) @ Wikipedia](https://en.wikipedia.org/wiki/Libra_(cryptocurrency)))
+
 
 ## Org
 
@@ -73,6 +80,17 @@ _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Re
 > have enabled us to implement significant parts of the Libra protocol in Move, including Libra coin,
 > transaction processing, and validator management.
 
+
+Planned to be a statically-typed programming language derived from Rust, compiled to bytecode.
+Example of a peer-to-peer transaction script:
+
+```
+public main(payee: address, amount: u64) {
+  let coin: 0x0.Currency.Coin = 0x0.Currency.withdraw_from_sender(copy(amount));
+  0x0.Currency.deposit(copy(payee), move(coin));
+}
+```
+
 ## Consensus with Byzantine Fault Tolerance (BFT)
 
 _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Truth Machine with State Replication_ 
@@ -106,6 +124,7 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 ## Articles
 
 - [Libra: The Path Forward](https://developers.libra.org/blog/2019/06/18/the-path-forward) by Libra Engineering Team, June 18, 2019 - Today we are announcing the Libra testnet, a live demonstration of an early prototype of the technology behind Libra - a simple global currency and financial infrastructure that can empower billions of people...
+- [Libra (cryptocurrency) @ Wikipedia](https://en.wikipedia.org/wiki/Libra_(cryptocurrency)))
 
 
 ## Articles (de)
