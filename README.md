@@ -118,10 +118,14 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 - Libra Dev / Tech Blog [`developers.libra.org/blog`](https://developers.libra.org/blog/)
 
 
-## Tools / Misc
+## Testnet
 
 - [Libra Testnet Explorer](https://librabrowser.io) by [Disk1n](https://github.com/Disk1n)
+- [Connecting to Libra TestNet on Windows with WSL](https://medium.com/coinmonks/connecting-to-libra-testnet-on-windows-with-wsl-45bdfd23150a) by Ibraheem Kolawole Bello, June 19th, 2019
 
+<!-- break -->
+
+- [Help & Discussion in Testnet Channel / Category](https://community.libra.org/c/testnet) of Libra Discussion Forum
 
 
 ## Timeline
