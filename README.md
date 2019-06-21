@@ -118,6 +118,12 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 - Libra Dev / Tech Blog [`developers.libra.org/blog`](https://developers.libra.org/blog/)
 
 
+## Tools / Misc
+
+- [Libra Testnet Explorer](https://librabrowser.io) by [Disk1n](https://github.com/Disk1n)
+
+
+
 ## Timeline
 
 - June 18th, 2019 - Libra Testnet Live and Open Source Libra Client (Core) Code
