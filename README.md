@@ -40,7 +40,7 @@ github: [`libra`](https://github.com/libra)
 > billions of people around the world. We present a proposal for the Libra protocol, which implements
 > the Libra Blockchain and aims to create a financial infrastructure that can foster innovation, lower
 > barriers to entry, and improve access to financial services. To validate the design of the Libra protocol,
-> we have built an open-source prototype implementation — Libra Core — in anticipation of a global
+> we have built an open-source prototype implementation - Libra Core - in anticipation of a global
 > collaborative effort to advance this new ecosystem.
 >
 > The Libra protocol allows a set of replicas - referred to as validators - from different authorities
@@ -89,7 +89,7 @@ _The Contract-Oriented Programming Language for Digital (Blockchain) Resources /
 
 ## Articles
 
-- [Libra: The Path Forward](https://developers.libra.org/blog/2019/06/18/the-path-forward), June 18, 2019 by Libra Engineering Team - Today we are announcing the Libra testnet, a live demonstration of an early prototype of the technology behind Libra - a simple global currency and financial infrastructure that can empower billions of people...
+- [Libra: The Path Forward](https://developers.libra.org/blog/2019/06/18/the-path-forward) by Libra Engineering Team by June 18, 2019 - Today we are announcing the Libra testnet, a live demonstration of an early prototype of the technology behind Libra - a simple global currency and financial infrastructure that can empower billions of people...
 
 
 ## Articles (de)
