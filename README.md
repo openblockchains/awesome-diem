@@ -73,6 +73,22 @@ _The Contract-Oriented Programming Language for Digital (Blockchain) Resources /
 > have enabled us to implement significant parts of the Libra protocol in Move, including Libra coin,
 > transaction processing, and validator management.
 
+## Consensus with Byzantine Fault Tolerance (BFT)
+
+_Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Truth Machine with State Replication_ 
+
+
+- [The Official Libra Byzantine Fault Tolerance (BFT): State Machine Replication in the Blockchain White Paper - Web Version](https://developers.libra.org/docs/state-machine-replication-paper), [PDF Download (~300k, 41 Pages)](libra-consensus-whitepaper.pdf) 
+
+> This report presents LibraBFT, a robust and efficient state machine replication system designed for the Libra Blockchain.
+> LibraBFT is based on HotStuff, a recent protocol that leverages several decades of scientific advances in Byzantine fault tolerance (BFT)
+> and achieves the strong scalability and security properties required by internet settings. LibraBFT further refines the HotStuff
+> protocol to introduce explicit liveness mechanisms and provides a concrete latency analysis. To drive the integration with the Libra
+> Blockchain, this document provides specifications extracted from a fully-functional simulator. These specifications include state
+> replication interfaces and a communication framework for data transfer and state synchronization among participants. 
+> Finally, this report provides a formal safety proof that induces criteria to detect misbehavior of BFT nodes, 
+> coupled with a simple reward and punishment mechanism.
+
 
 ## Community
 
