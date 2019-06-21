@@ -9,7 +9,7 @@ _Moving money around the world should be as easy and cheap as sending a text mes
 
 web: [`libra.org`](https://libra.org)
 
-- [The Official Libra White Paper](https://libra.org/en-US/white-paper) - Web Version 
+- [The Official Libra White Paper](https://libra.org/en-US/white-paper) - Web Version, [PDF Download (600k, 12 Pages)](libra-whitepaper.pdf) 
 
 > Libra's mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 >
