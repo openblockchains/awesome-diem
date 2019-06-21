@@ -31,9 +31,9 @@ github: [`libra`](https://github.com/libra)
 
 - Libra Core (Testnet Client), github: [`libra/libra`](https://github.com/libra/libra)
 
-### Blockchain
+### Blockchain / Protocol
 
-- [The Official Libra Blockchain White Paper - Web Version](https://developers.libra.org/docs/the-libra-blockchain-paper), [PDF Download (~400k, 29 Pages)](libra-blockchain-whitepaper.pdf) 
+- [The Official Libra Blockchain / Protocol White Paper - Web Version](https://developers.libra.org/docs/the-libra-blockchain-paper), [PDF Download (~400k, 29 Pages)](libra-blockchain-whitepaper.pdf) 
 
 > **Abstract**: The Libra Blockchain is a decentralized, programmable database designed to support a
 > low-volatility cryptocurrency that will have the ability to serve as an efficient medium of exchange for
@@ -76,14 +76,15 @@ _The Contract-Oriented Programming Language for Digital (Blockchain) Resources /
 
 ## Community
 
-- libra discussion forum [`community.libra.org`](https://community.libra.org)
-- twitter libradev updates [`twitter.com/libradev`](https://twitter.com/libradev)
-- libra dev / tech blog [`developers.libra.org/blog`](https://developers.libra.org/blog/)
+- Libra Discussion Forum [`community.libra.org`](https://community.libra.org)
+- Libra Dev / Tech Updates [`@libradev`](https://twitter.com/libradev)
+- Libra Dev / Tech Blog [`developers.libra.org/blog`](https://developers.libra.org/blog/)
 
 
 ## Timeline
 
 - June 18th, 2019 - Libra Testnet Live and Open Source Libra Client (Core) Code
+
 
 
 ## Articles
