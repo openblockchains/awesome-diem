@@ -125,7 +125,7 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 
 <!-- break -->
 
-- [Help & Discussion in Testnet Channel / Category](https://community.libra.org/c/testnet) of Libra Discussion Forum
+- [Help & Discussion in Testnet Channel / Category](https://community.libra.org/c/testnet) @ Libra Discussion Forum
 
 
 ## Timeline
