@@ -108,6 +108,9 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 > coupled with a simple reward and punishment mechanism.
 
 
+- [What is HotStuff and why is it a big deal](https://medium.com/@cypherium/what-is-hotstuff-and-why-is-it-a-big-deal-213f39696763) by Cypherium, June 18, 2019
+
+
 ## Community
 
 - Libra Discussion Forum [`community.libra.org`](https://community.libra.org)
