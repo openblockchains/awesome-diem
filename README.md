@@ -57,6 +57,24 @@ _The Contract-Oriented Programming Language for Digital (Blockchain) Resources /
 - twitter libradev updates [`twitter.com/libradev`](https://twitter.com/libradev)
 - libra dev / tech blog [`developers.libra.org/blog`](https://developers.libra.org/blog/)
 
+
+## Timeline
+
+- June 18th, 2019 - Librar Testnet Live and Open Source Libra Client (Core) Code
+
+## Articles
+
+- [Libra: The Path Forward](https://developers.libra.org/blog/2019/06/18/the-path-forward), June 18, 2019 by Libra Engineering Team - Today we are announcing the Libra testnet, a live demonstration of an early prototype of the technology behind Libra - a simple global currency and financial infrastructure that can empower billions of people...
+
+
+## Articles (de)
+
+- [Facebooks Zuckerbucks: Es hätte schlimmer kommen können](https://bitcoinblog.de/2019/06/18/facebooks-zuckerbucks-es-haette-schlimmer-kommen-koennen/) by Christoph Bergmann (BitcoinBlog.de), June 18, 2019
+- [Facebooks GlobalCoin: Gedeckt durch einem Korb anderer Währungen](https://bitcoinblog.de/2019/06/12/facebooks-globalcoin-gedeckt-durch-einem-korb-anderer-waehrungen/) by Christoph Bergmann (BitcoinBlog.de), June 12, 2019
+
+
+
+
 ## Meta
 
 **License**
