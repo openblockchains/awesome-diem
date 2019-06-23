@@ -181,7 +181,7 @@ Neutral
 - [First Look: Libra](https://info.binance.com/en/research/marketresearch/libra.html) by Binance Research, June 18th 2019 - An in-depth review of Facebook's long-anticipated entry into cryptocurrency
 
 
-Skeptic / Critical
+Skeptic / Critical Thinking
 
 - [Facebook's Libra Must Be Stopped](https://www.project-syndicate.org/commentary/facebook-libra-must-be-stopped-by-katharina-pistor-2019-06) by Katharian Pistor (Project Syndicate), June 20, 2019 - Facebook has now unveiled a cryptocurrency and payment system that could take down the entire global economy. Governments must intervene before a company that "moves fast and breaks things" ends up breaking everything...
 
