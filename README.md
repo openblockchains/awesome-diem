@@ -148,6 +148,7 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 ## Testnet
 
 - [Libra Testnet Explorer](https://librabrowser.io) by [Gal Diskin](https://github.com/Disk1n)
+- [Libra gRPC](https://github.com/bonustrack/libra-grpc) by Fabien- A lightweight JavaScript library for Libra
 - [Connecting to Libra TestNet on Windows with the Windows Subsystem for Linux (WSL)](https://medium.com/coinmonks/connecting-to-libra-testnet-on-windows-with-wsl-45bdfd23150a) by Ibraheem Kolawole Bello, June 19th, 2019
 
 
@@ -190,6 +191,11 @@ Sceptic
 - [Facebooks GlobalCoin: Gedeckt durch einem Korb anderer Währungen](https://bitcoinblog.de/2019/06/12/facebooks-globalcoin-gedeckt-durch-einem-korb-anderer-waehrungen/) by Christoph Bergmann (BitcoinBlog.de), June 12, 2019
 
 
+## Awesome Awesomeness
+
+_A curated list of awesome lists_
+
+- [Awesome Libra Blockchain](https://github.com/IrKor/awesome-libra) by Irina 
 
 
 ## Meta
