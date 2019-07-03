@@ -201,7 +201,7 @@ Skeptic / Critical Thinking
 
 _A curated list of awesome lists_
 
-- [Awesome Libra Blockchain](https://github.com/IrKor/awesome-libra) by Irina 
+- [Awesome Libra Blockchain](https://github.com/copperbits/awesome-libra) by Copperbits 
 
 
 ## Meta
