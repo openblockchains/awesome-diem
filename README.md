@@ -136,6 +136,8 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 
 
 - [What is HotStuff and why is it a big deal](https://medium.com/@cypherium/what-is-hotstuff-and-why-is-it-a-big-deal-213f39696763) by Cypherium, June 18, 2019
+- [What is the difference between PBFT, Tendermint, SBFT and HotStuff?](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/) by Ittai Abraham, June 23, 2019
+- [Facebook’s proposed currency is technically sound, but should you trust it?](https://medium.com/dapperlabs/dapper-labs-cto-reviews-libra-s-white-paper-656638778100) by Dapper Labs, June 21, 2019
 
 
 ## Community
