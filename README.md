@@ -225,6 +225,12 @@ _Transactions, Transactions, Transactions_
   - [Libra (cryptocurrency) Talk / Discussion @ Wikipedia](https://en.wikipedia.org/wiki/Talk:Libra_(cryptocurrency))
 
 
+## Trivia & Fun Facts
+
+Q: Why is it called Libra? A: The Libra name was inspired by the [Roman unit of weight measure](https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement), which was eventually used to mint coins. Libra the astrological symbol is the balance of justice, and phonetically it sounds like libre, which is French for free or freedom.  The name is a combination of money, justice, and freedom.
+
+
+
 ## Articles
 
 Official
