@@ -148,6 +148,148 @@ main(payee: address, amount: u64) {
 }
 ```
 
+More contract samples (from the [Move Contract Playground](https://libraide.com/)):
+
+mint.mvir:
+
+```
+import 0x0.LibraAccount;
+import 0x0.LibraCoin;
+main(payee: address, amount: u64) {
+  LibraAccount.mint_to_address(move(payee), move(amount));
+  return;
+}
+```
+
+transfer.mvir:
+
+```
+import 0x0.LibraAccount;
+main (payee: address, amount: u64) {
+  LibraAccount.pay_from_sender(move(payee), move(amount));
+  return;
+}
+```
+
+balance.mvir:
+
+```
+import 0x0.LibraAccount;
+
+main() {
+    let addr: address;
+    let struct1_original_balance: u64;
+    addr = get_txn_sender();
+    struct1_original_balance = LibraAccount.balance(copy(addr));
+    assert(copy(struct1_original_balance) > 10, 77);
+
+    return;
+}
+```
+
+address.mvir:
+
+```
+main() {
+    let a1: address;
+    let a2: address;
+    let a3: address;
+    let a4: address;
+    let a5: address;
+    let a6: address;
+    let a7: address;
+    let a8: address;
+    let a9: address;
+
+    a1 = 0x1;
+    a2 = 0x01;
+    a3 = 0x0001;
+    a4 = 0x00000001;
+    a5 = 0x0000000000000001;
+    a6 = 0x00000000000000000000000000000001;
+    a7 = 0x000000000000000000000000000000001;
+    a8 = 0x000000000000000000000000000000000000000000000000000000000000001;
+    a9 = 0x0000000000000000000000000000000000000000000000000000000000000001;
+
+    assert(copy(a1) == copy(a2), 42);
+    assert(copy(a2) == copy(a3), 43);
+    assert(copy(a3) == copy(a4), 44);
+    assert(copy(a4) == copy(a5), 45);
+    assert(copy(a5) == copy(a6), 46);
+    assert(copy(a6) == copy(a7), 47);
+    assert(copy(a7) == copy(a8), 48);
+    assert(copy(a8) == copy(a9), 49);
+    return;
+}
+```
+
+create_account.mvir:
+
+```
+import 0x0.LibraAccount;
+import 0x0.LibraCoin;
+
+main() {
+    let addr: address;
+    let account_exists: bool;
+    let ten_coins: R#LibraCoin.T;
+    let account_exists_now: bool;
+
+    addr = 0x0111111111111111111111111111111111111011111111111111111111111110;
+    account_exists = LibraAccount.exists(copy(addr));
+    assert(!move(account_exists), 83);
+
+    ten_coins = LibraAccount.withdraw_from_sender(10);
+    create_account(copy(addr));
+    LibraAccount.deposit(copy(addr), move(ten_coins));
+
+    account_exists_now = LibraAccount.exists(copy(addr));
+    assert(move(account_exists_now), 84);
+
+    return;
+}
+```
+
+p2p_payment.mvir:
+
+```
+// Simple peer-peer payment example.
+
+// Use LibraAccount module published on the blockchain at account address
+// 0x0...0 (with 64 zeroes). 0x0 is shorthand that the IR pads out to
+// 256 bits (64 digits) by adding leading zeroes.
+import 0x0.LibraAccount;
+import 0x0.LibraCoin;
+main(payee: address, amount: u64) {
+  // The bytecode (and consequently, the IR) has typed locals.  The scope of
+  // each local is the entire procedure. All local variable declarations must
+  // be at the beginning of the procedure. Declaration and initialization of
+  // variables are separate operations, but the bytecode verifier will prevent
+  // any attempt to use an uninitialized variable.
+  let coin: R#LibraCoin.T;
+  // The R# part of the type above is one of two *kind annotation* R# and V#
+  // (shorthand for "Resource" and "unrestricted Value"). These annotations
+  // must match the kind of the type declaration (e.g., does the LibraCoin
+  // module declare `resource T` or `struct T`?).
+
+  // Acquire a LibraCoin.T resource with value `amount` from the sender's
+  // account.  This will fail if the sender's balance is less than `amount`.
+  coin = LibraAccount.withdraw_from_sender(move(amount));
+  // Move the LibraCoin.T resource into the account of `payee`. If there is no
+  // account at the address `payee`, this step will fail
+  LibraAccount.deposit(move(payee), move(coin));
+
+  // Every procedure must end in a `return`. The IR compiler is very literal:
+  // it directly translates the source it is given. It will not do fancy
+  // things like inserting missing `return`s.
+  return;
+}
+```
+
+
+
+
+
 ## Consensus with Byzantine Fault Tolerance (BFT)
 
 _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Truth Machine with State Replication_ 
