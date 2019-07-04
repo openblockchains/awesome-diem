@@ -14,7 +14,7 @@ web: [`libra.org`](https://libra.org)
 > Libra's mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 >
 > This document outlines our plans for a new decentralized blockchain, a low-volatility cryptocurrency, 
-> and a smart contract platform that together aim to create a new opportunity for responsible financial services innovation.
+> and a contract platform that together aim to create a new opportunity for responsible financial services innovation.
 
 ## Currency / Money
 
@@ -75,7 +75,7 @@ github: [`libra`](https://github.com/libra)
 > user accounts authenticated by public key cryptography and adhere to custom rules specified by the
 > developers of these resources. Validators process transactions and interact with each other to reach
 > consensus on the state of the database. Transactions are based on predefined and, in future versions,
-> user-defined smart contracts in a new programming language called Move.
+> user-defined contracts in a new programming language called Move.
 >
 > We use Move to define the core mechanisms of the blockchain, such as the currency and validator
 > membership. These core mechanisms enable the creation of a unique governance mechanism that
@@ -99,7 +99,7 @@ _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Re
 - [The Official Move: A Language With Programmable Resources White Paper - Web Version](https://developers.libra.org/docs/move-paper), [PDF Download (~200k, 26 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-move.pdf) 
 
 > **Abstract:** We present Move, a safe and flexible programming language for the Libra Blockchain.
-> Move is an executable bytecode language used to implement custom transactions and smart contracts.
+> Move is an executable bytecode language used to implement custom transactions and contracts.
 > The key feature of Move is the ability to define custom resource types with semantics inspired by linear
 > logic: a resource can never be copied or implicitly discarded, only moved between program storage
 > locations. These safety guarantees are enforced statically by Move's type system. Despite these
@@ -112,7 +112,8 @@ _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Re
 
 
 Planned to be a statically-typed programming language derived from Rust, compiled to bytecode.
-Example of a peer-to-peer transaction script:
+
+[`p2p_payment.mvir`](contracts/snippets/p2p_payment.mvir) - Example of a peer-to-peer transaction script:
 
 ```
 // Simple peer-peer payment example.
@@ -150,7 +151,7 @@ main(payee: address, amount: u64) {
 
 More contract samples (from the [Move Contract Playground](https://libraide.com/)):
 
-mint.mvir:
+[`mint.mvir`](contracts/snippets/mint.mvir):
 
 ```
 import 0x0.LibraAccount;
@@ -247,42 +248,6 @@ main() {
     assert(move(account_exists_now), 84);
 
     return;
-}
-```
-
-p2p_payment.mvir:
-
-```
-// Simple peer-peer payment example.
-
-// Use LibraAccount module published on the blockchain at account address
-// 0x0...0 (with 64 zeroes). 0x0 is shorthand that the IR pads out to
-// 256 bits (64 digits) by adding leading zeroes.
-import 0x0.LibraAccount;
-import 0x0.LibraCoin;
-main(payee: address, amount: u64) {
-  // The bytecode (and consequently, the IR) has typed locals.  The scope of
-  // each local is the entire procedure. All local variable declarations must
-  // be at the beginning of the procedure. Declaration and initialization of
-  // variables are separate operations, but the bytecode verifier will prevent
-  // any attempt to use an uninitialized variable.
-  let coin: R#LibraCoin.T;
-  // The R# part of the type above is one of two *kind annotation* R# and V#
-  // (shorthand for "Resource" and "unrestricted Value"). These annotations
-  // must match the kind of the type declaration (e.g., does the LibraCoin
-  // module declare `resource T` or `struct T`?).
-
-  // Acquire a LibraCoin.T resource with value `amount` from the sender's
-  // account.  This will fail if the sender's balance is less than `amount`.
-  coin = LibraAccount.withdraw_from_sender(move(amount));
-  // Move the LibraCoin.T resource into the account of `payee`. If there is no
-  // account at the address `payee`, this step will fail
-  LibraAccount.deposit(move(payee), move(coin));
-
-  // Every procedure must end in a `return`. The IR compiler is very literal:
-  // it directly translates the source it is given. It will not do fancy
-  // things like inserting missing `return`s.
-  return;
 }
 ```
 
