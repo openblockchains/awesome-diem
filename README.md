@@ -145,11 +145,14 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 - Libra Dev / Tech Blog [`developers.libra.org/blog`](https://developers.libra.org/blog/)
 
 
+
 ## Testnet
 
-- [Libra Testnet Explorer](https://librabrowser.io) by [Gal Diskin](https://github.com/Disk1n)
+- [Libra Testnet Explorer](https://librabrowser.io), [(Source)](https://github.com/Disk1n/LibraBrowser) by [Gal Diskin](https://github.com/Disk1n)
 - [Libra gRPC in JavaScript](https://github.com/bonustrack/libra-grpc) by Fabien - A lightweight JavaScript library for Libra
 - [Libra gRPC in Python](https://github.com/egorsmkv/libra-grpc-py) by Yehor Smoliakov
+- [#libra](https://github.com/topics/libra) Topic @ GitHub
+
 
 <!-- break -->
 
@@ -202,6 +205,9 @@ Skeptic / Critical Thinking
 _A curated list of awesome lists_
 
 - [Awesome Libra Blockchain](https://github.com/copperbits/awesome-libra) by Copperbits 
+- [Awesome Libra](https://github.com/learndapp/awesome-libra) by LearnDapp 
+- [#awesome-libra](https://github.com/topics/awesome-libra) Topic @ GitHub
+
 
 
 ## Meta
