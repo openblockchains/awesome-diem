@@ -371,6 +371,7 @@ Skeptic / Critical Thinking
 
 ## Articles (de)
 
+- [Warum die Politik wegen Facebooks Libra-Coin besorgt ist – und was sie daran nicht versteht](https://bitcoinblog.de/2019/06/25/ueberwachungskapitalismus-geldwaesche-und-gefahr-fuer-die-stabilitaet-des-finanzwesens/) by Christoph Bergmann (BitcoinBlog.de) , June 25, 2019
 - [Facebooks Zuckerbucks: Es hätte schlimmer kommen können](https://bitcoinblog.de/2019/06/18/facebooks-zuckerbucks-es-haette-schlimmer-kommen-koennen/) by Christoph Bergmann (BitcoinBlog.de), June 18, 2019
 - [Facebooks GlobalCoin: Gedeckt durch einem Korb anderer Währungen](https://bitcoinblog.de/2019/06/12/facebooks-globalcoin-gedeckt-durch-einem-korb-anderer-waehrungen/) by Christoph Bergmann (BitcoinBlog.de), June 12, 2019
 
