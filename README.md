@@ -18,10 +18,30 @@ web: [`libra.org`](https://libra.org)
 
 ## Currency / Money
 
-Libra is a stablecoin backed by a basket of currencies, and US Treasury securities in an attempt to avoid volatility (and speculation). 
+Libra is a stablecoin backed by a basket of (four?) currencies (USD, EURO, GBP, YEN), and US Treasury securities in an attempt to avoid volatility (and speculation). 
 Facebook has announced that each of the (100?) partners will stake an initial US$10 million, so Libra is backed by US$1 billion of solid currency, on the day it opens.
 
 (Source: [Libra (cryptocurrency) @ Wikipedia](https://en.wikipedia.org/wiki/Libra_(cryptocurrency)))
+
+**Libra Rerseve**
+
+- The Official Libra Reserve White Paper, [PDF Download (~40k, 4 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra.pdf)
+
+> Q: What are the actual assets that will be backing each Libra coin? A: The actual assets will be
+> a collection of low-volatility assets, including bank deposits and government securities in currencies
+> from stable and reputable central banks. As the value of Libra will be effectively linked to a basket
+of fiat currencies, from the point of view of any specific currency, there will be fluctuations in the
+value of Libra. The makeup of the reserve is designed to mitigate the likelihood and severity of these
+fluctuations, particularly in the negative direction (i.e., even in economic crises). To that end, the
+above basket has been structured with capital preservation and liquidity in mind. On the capital
+preservation point, the association will only invest in debt from stable governments with low default
+probability that are unlikely to experience high inflation. In addition, the reserve has been diversified
+by selecting multiple governments, rather than just one, to further reduce the potential impact of such
+events. In terms of liquidity, the association plans to rely on short-dated securities issued by these
+governments, that are all traded in liquid markets that regularly accommodate daily trading volume
+in the tens or even hundreds of billions. This allows the size of the reserve to be easily adjusted as
+the number of Libra in circulation expands or contracts.
+
 
 
 ## Org
@@ -61,6 +81,16 @@ github: [`libra`](https://github.com/libra)
 > membership. These core mechanisms enable the creation of a unique governance mechanism that
 > builds on the stability and reputation of existing institutions in the early days but transitions to a
 > fully open system over time.
+
+**Are We Decentralized Yet?**
+
+- The Official Libra Roadmap White Paper from Members-Only (Permissioned) to Public (Permissionless) Blockchain, [PDF Download (~50k, 5 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-governance.pdf)
+
+> We believe that for the Libra network to achieve its full potential, it needs to be permissionless.
+> As a result, one of the association's directives will be to work with the community to research and implement
+> this transition, which will begin within five years of the public launch of the Libra Blockchain and ecosystem.
+
+
 
 ### Move Programming Language
 
@@ -142,8 +172,8 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 
 **HotStuff**
 
-- [HotStuff: Three-chain Rules!](https://dahliamalkhi.wordpress.com/2018/10/24/hotstuff-three-chain-rules/), by Dahlia Malkhi, October 24, 2018 - Most protocols contain quadratic voting steps. When Byzantine consensus protocols were originally conceived, a typical target system size was n=4 or n=7, tolerating one or two faults. But scaling Byzantine Fault Tolerance (BFT) consensus to n=2000 means that even on a good day, when communication is timely and a handful of failures occurs, quadratic steps require 4,000,000 messages. A cascade of failures might bring the communication complexity to whopping 8,000,000,000 (!) transmissions for a single consensus decision...
-- [HotStuff: Byzantine Fault Tolerance (BFT) Consensus with Linearity and Responsiveness Whitepaper](https://arxiv.org/abs/1803.05069), [PDF Download, ~800k, 10 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/hotstuff.pdf) by Maofan Yin, Dahlia Malkhi, Michael K. Reiter, Guy Golan Gueta, Ittai Abraham -  a leader-based Byzantine fault-tolerant replication protocol for the partially synchronous model. Once network communication becomes synchronous, HotStuff enables a correct leader to drive the protocol to consensus at the pace of actual (vs. maximum) network delay - a property called responsiveness - and with communication complexity that is linear in the number of replicas. To our knowledge, HotStuff is the first partially synchronous BFT replication protocol exhibiting these combined properties. Its simplicity enables it to be further pipelined and simplified into a practical, concise protocol for building large-scale replication services.
+- [HotStuff: Three-chain Rules!](https://dahliamalkhi.wordpress.com/2018/10/24/hotstuff-three-chain-rules/) by Dahlia Malkhi, October 24, 2018 - Most protocols contain quadratic voting steps. When Byzantine consensus protocols were originally conceived, a typical target system size was n=4 or n=7, tolerating one or two faults. But scaling Byzantine Fault Tolerance (BFT) consensus to n=2000 means that even on a good day, when communication is timely and a handful of failures occurs, quadratic steps require 4,000,000 messages. A cascade of failures might bring the communication complexity to whopping 8,000,000,000 (!) transmissions for a single consensus decision...
+- [HotStuff: Byzantine Fault Tolerance (BFT) Consensus with Linearity and Responsiveness Whitepaper](https://arxiv.org/abs/1803.05069)  [(PDF Download, ~800k, 10 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/hotstuff.pdf) by Maofan Yin, Dahlia Malkhi, Michael K. Reiter, Guy Golan Gueta, Ittai Abraham -  a leader-based Byzantine fault-tolerant replication protocol for the partially synchronous model. Once network communication becomes synchronous, HotStuff enables a correct leader to drive the protocol to consensus at the pace of actual (vs. maximum) network delay - a property called responsiveness - and with communication complexity that is linear in the number of replicas. To our knowledge, HotStuff is the first partially synchronous BFT replication protocol exhibiting these combined properties. Its simplicity enables it to be further pipelined and simplified into a practical, concise protocol for building large-scale replication services.
 
 
 ## Community
