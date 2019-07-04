@@ -221,6 +221,7 @@ _A curated list of awesome lists_
 
 - [Awesome Libra Blockchain](https://github.com/copperbits/awesome-libra) by Copperbits 
 - [Awesome Libra](https://github.com/learndapp/awesome-libra) by LearnDapp 
+- [Awesome Libra](https://github.com/methuz/Awesome-Libra) by Methuz Kaewsaikao 
 - [#awesome-libra](https://github.com/topics/awesome-libra) Topic @ GitHub
 
 
