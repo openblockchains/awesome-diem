@@ -9,7 +9,7 @@ _Moving money around the world should be as easy and cheap as sending a text mes
 
 web: [`libra.org`](https://libra.org)
 
-- [The Official Libra White Paper - Web Version](https://libra.org/en-US/white-paper), [PDF Download (~600k, 12 Pages)](../blockchain-whitepapers/libra.pdf) 
+- [The Official Libra White Paper - Web Version](https://libra.org/en-US/white-paper), [PDF Download (~600k, 12 Pages)](https://github.com/openblockchains/blockchain-whitepapers/libra.pdf) 
 
 > Libra's mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 >
@@ -40,7 +40,7 @@ github: [`libra`](https://github.com/libra)
 
 ### Blockchain / Protocol
 
-- [The Official Libra Blockchain / Protocol White Paper - Web Version](https://developers.libra.org/docs/the-libra-blockchain-paper), [PDF Download (~400k, 29 Pages)](../blockchain-whitepapers/libra-blockchain.pdf) 
+- [The Official Libra Blockchain / Protocol White Paper - Web Version](https://developers.libra.org/docs/the-libra-blockchain-paper), [PDF Download (~400k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/libra-blockchain.pdf) 
 
 > **Abstract**: The Libra Blockchain is a decentralized, programmable database designed to support a
 > low-volatility cryptocurrency that will have the ability to serve as an efficient medium of exchange for
@@ -66,7 +66,7 @@ github: [`libra`](https://github.com/libra)
 
 _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Resources / Assets_
 
-- [The Official Move: A Language With Programmable Resources White Paper - Web Version](https://developers.libra.org/docs/move-paper), [PDF Download (~200k, 26 Pages)](../blockchain-whitepapers/libra-move.pdf) 
+- [The Official Move: A Language With Programmable Resources White Paper - Web Version](https://developers.libra.org/docs/move-paper), [PDF Download (~200k, 26 Pages)](https://github.com/openblockchains/blockchain-whitepapers/libra-move.pdf) 
 
 > **Abstract:** We present Move, a safe and flexible programming language for the Libra Blockchain.
 > Move is an executable bytecode language used to implement custom transactions and smart contracts.
@@ -123,7 +123,7 @@ main(payee: address, amount: u64) {
 _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Truth Machine with State Replication_ 
 
 
-- [The Official Libra Byzantine Fault Tolerance (BFT): State Machine Replication in the Blockchain White Paper - Web Version](https://developers.libra.org/docs/state-machine-replication-paper), [PDF Download (~300k, 41 Pages)](../blockchain-whitepapers/libra-consensus.pdf) 
+- [The Official Libra Byzantine Fault Tolerance (BFT): State Machine Replication in the Blockchain White Paper - Web Version](https://developers.libra.org/docs/state-machine-replication-paper), [PDF Download (~300k, 41 Pages)](https://github.com/openblockchains/blockchain-whitepapers/libra-consensus.pdf) 
 
 > **Abstract**: This report presents LibraBFT, a robust and efficient state machine replication system designed for the Libra Blockchain.
 > LibraBFT is based on HotStuff, a recent protocol that leverages several decades of scientific advances in Byzantine fault tolerance (BFT)
