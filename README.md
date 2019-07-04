@@ -162,7 +162,7 @@ main(payee: address, amount: u64) {
 }
 ```
 
-transfer.mvir:
+[`transfer.mvir`](contracts/snippets/transfer.mvir):
 
 ```
 import 0x0.LibraAccount;
@@ -172,7 +172,7 @@ main (payee: address, amount: u64) {
 }
 ```
 
-balance.mvir:
+[`balance.mvir`](contracts/snippets/balance.mvir):
 
 ```
 import 0x0.LibraAccount;
@@ -188,7 +188,7 @@ main() {
 }
 ```
 
-address.mvir:
+[`address.mvir`](contracts/snippets/address.mvir):
 
 ```
 main() {
@@ -224,7 +224,7 @@ main() {
 }
 ```
 
-create_account.mvir:
+[`create_account.mvir`](contracts/snippets/create_account.mvir):
 
 ```
 import 0x0.LibraAccount;
