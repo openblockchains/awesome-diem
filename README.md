@@ -9,12 +9,13 @@ _Moving money around the world should be as easy and cheap as sending a text mes
 
 web: [`libra.org`](https://libra.org)
 
-- [The Official Libra White Paper - Web Version](https://libra.org/en-US/white-paper), [PDF Download (~600k, 12 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra.pdf) 
+- [The Official Libra White Paper](https://libra.org/en-US/white-paper), [PDF Download (~600k, 12 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra.pdf) 
 
 > Libra's mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 >
 > This document outlines our plans for a new decentralized blockchain, a low-volatility cryptocurrency, 
 > and a contract platform that together aim to create a new opportunity for responsible financial services innovation.
+
 
 ## Currency / Money
 
@@ -60,7 +61,7 @@ github: [`libra`](https://github.com/libra)
 
 ### Blockchain / Protocol
 
-- [The Official Libra Blockchain / Protocol White Paper - Web Version](https://developers.libra.org/docs/the-libra-blockchain-paper), [PDF Download (~400k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-blockchain.pdf) 
+- [The Official Libra Blockchain / Protocol White Paper](https://developers.libra.org/docs/the-libra-blockchain-paper), [PDF Download (~400k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-blockchain.pdf) 
 
 > **Abstract**: The Libra Blockchain is a decentralized, programmable database designed to support a
 > low-volatility cryptocurrency that will have the ability to serve as an efficient medium of exchange for
@@ -96,7 +97,7 @@ github: [`libra`](https://github.com/libra)
 
 _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Resources / Assets_
 
-- [The Official Move: A Language With Programmable Resources White Paper - Web Version](https://developers.libra.org/docs/move-paper), [PDF Download (~200k, 26 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-move.pdf) 
+- [The Official Move: A Language With Programmable Resources White Paper](https://developers.libra.org/docs/move-paper), [PDF Download (~200k, 26 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-move.pdf) 
 
 > **Abstract:** We present Move, a safe and flexible programming language for the Libra Blockchain.
 > Move is an executable bytecode language used to implement custom transactions and contracts.
@@ -119,12 +120,12 @@ Planned to be a statically-typed programming language derived from Rust, compile
 // Simple peer-peer payment example.
 
 // Use LibraAccount module published on the blockchain at account address
-// 0x0...0 (with 64 zeroes). 0x0 is shorthand that the IR pads out to
+// 0x0...0 (with 64 zeroes). 0x0 is shorthand that the intermediate representation (IR) pads out to
 // 256 bits (64 digits) by adding leading zeroes.
 import 0x0.LibraAccount;
 import 0x0.LibraCoin;
 main(payee: address, amount: u64) {
-  // The bytecode (and consequently, the IR) has typed locals.  The scope of
+  // The bytecode (and consequently, the intermediate representation (IR)) has typed locals.  The scope of
   // each local is the entire procedure. All local variable declarations must
   // be at the beginning of the procedure. Declaration and initialization of
   // variables are separate operations, but the bytecode verifier will prevent
@@ -260,7 +261,7 @@ main() {
 _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Truth Machine with State Replication_ 
 
 
-- [The Official Libra Byzantine Fault Tolerance (BFT): State Machine Replication in the Blockchain White Paper - Web Version](https://developers.libra.org/docs/state-machine-replication-paper), [PDF Download (~300k, 41 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-consensus.pdf) 
+- [The Official Libra Byzantine Fault Tolerance (BFT): State Machine Replication in the Blockchain White Paper](https://developers.libra.org/docs/state-machine-replication-paper), [PDF Download (~300k, 41 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-consensus.pdf) 
 
 > **Abstract**: This report presents LibraBFT, a robust and efficient state machine replication system designed for the Libra Blockchain.
 > LibraBFT is based on HotStuff, a recent protocol that leverages several decades of scientific advances in Byzantine fault tolerance (BFT)
@@ -273,7 +274,7 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 
 
 - [What is HotStuff and why is it a big deal](https://medium.com/@cypherium/what-is-hotstuff-and-why-is-it-a-big-deal-213f39696763) by Cypherium, June 18, 2019
-- [What is the difference between PBFT, Tendermint, SBFT and HotStuff?](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/) by Ittai Abraham, June 23, 2019
+- [What is the difference between Practical Byzantine Fault Tolerance (PBFT), Tendermint, Simple Byzantine Fault Tolerance (SBFT) and HotStuff?](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/) by Ittai Abraham, June 23, 2019
 - [Facebook’s proposed currency is technically sound, but should you trust it?](https://medium.com/dapperlabs/dapper-labs-cto-reviews-libra-s-white-paper-656638778100) by Dapper Labs, June 21, 2019
 
 
@@ -334,7 +335,13 @@ _Transactions, Transactions, Transactions_
 
 ## Trivia & Fun Facts
 
-Q: Why is it called Libra? A: The Libra name was inspired by the [Roman unit of weight measure](https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement), which was eventually used to mint coins. Libra the astrological symbol is the balance of justice, and phonetically it sounds like libre, which is French for free or freedom.  The name is a combination of money, justice, and freedom.
+Q: Why is it called Libra? A: The Libra name was inspired by 
+
+1. Libra the [Roman unit of weight measure](https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement), which was eventually used to mint coins. 
+2. Libra the astrological symbol is the balance of justice, and
+3. Libra phonetically sounds like libre, which is French for free or freedom.  
+
+The Libra name is a combination of money, justice, and freedom.
 
 
 
