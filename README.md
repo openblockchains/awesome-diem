@@ -148,9 +148,22 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 
 ## Testnet
 
+**Blockchain Explorer**
+
+_Transactions, Transactions, Transactions_
+
 - [Libra Testnet Explorer](https://librabrowser.io), [(Source)](https://github.com/Disk1n/LibraBrowser) by [Gal Diskin](https://twitter.com/gal_diskin)
+- [Libra Vista (Testnet Explorer)](https://www.libravista.com)
+
+
+**Libraries**
+
 - [Libra gRPC in JavaScript](https://github.com/bonustrack/libra-grpc) by Fabien - A lightweight JavaScript library for Libra
 - [Libra gRPC in Python](https://github.com/egorsmkv/libra-grpc-py) by Yehor Smoliakov
+
+
+**More**
+
 - [#libra](https://github.com/topics/libra) Topic @ GitHub
 
 
