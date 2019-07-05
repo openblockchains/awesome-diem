@@ -336,9 +336,9 @@ _Transactions, Transactions, Transactions_
 ## Trivia & Fun Facts
 
 Q: Why is it called Libra? A: The Libra name was inspired by 
-1) Libra the [Roman unit of weight measure](https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement), which was eventually used to mint coins. 
-2) Libra the astrological symbol is the balance of justice, and
-3) Libra phonetically sounds like libre, which is French for free or freedom.  
+(1) Libra the [Roman unit of weight measure](https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement), which was eventually used to mint coins. 
+(2) Libra the astrological symbol is the balance of justice, and
+(3) Libra phonetically sounds like libre, which is French for free or freedom.  
 The Libra name is a combination of money, justice, and freedom.
 
 
