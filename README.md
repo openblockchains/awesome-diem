@@ -347,7 +347,7 @@ The Libra name is a combination of money, justice, and freedom.
 
 Official
 
-- [Libra, 2 weeks](https://www.facebook.com/notes/david-marcus/libra-2-weeks-in/10158616513819148/) by David Marcus (Libra / Calibra Project Chief / Head), July 3, 2019
+- [Libra, 2 weeks in](https://www.facebook.com/notes/david-marcus/libra-2-weeks-in/10158616513819148/) by David Marcus (Libra / Calibra Project Chief / Head), July 3, 2019
 - [Libra: The Path Forward](https://developers.libra.org/blog/2019/06/18/the-path-forward) by Libra Engineering Team, June 18, 2019 - Today we are announcing the Libra testnet, a live demonstration of an early prototype of the technology behind Libra - a simple global currency and financial infrastructure that can empower billions of people...
 
 
