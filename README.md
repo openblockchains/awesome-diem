@@ -15,11 +15,18 @@ web: [`libra.org`](https://libra.org)
 >
 > This document outlines our plans for a new decentralized blockchain, a low-volatility cryptocurrency, 
 > and a contract platform that together aim to create a new opportunity for responsible financial services innovation.
+>
+> ..
+>
+> Libra's goal: A stable [crypto] currency built on a secure and stable open-source blockchain, 
+> backed by a reserve of real assets, and governed by an independent association.
+
 
 
 ## Currency / Money
 
-Libra is a stablecoin backed by a basket of (four?) currencies (USD, EURO, GBP, YEN), and US Treasury securities in an attempt to avoid volatility (and speculation). 
+Libra is a stable coin backed by a basket of (four?) currencies (USD, EURO, GBP, JPY), 
+and US Treasury securities in an attempt to avoid volatility (and speculation). 
 Facebook has announced that each of the (100?) partners will stake an initial US$10 million, so Libra is backed by US$1 billion of solid currency, on the day it opens.
 
 (Source: [Libra (cryptocurrency) @ Wikipedia](https://en.wikipedia.org/wiki/Libra_(cryptocurrency)))
@@ -42,6 +49,29 @@ events. In terms of liquidity, the association plans to rely on short-dated secu
 governments, that are all traded in liquid markets that regularly accommodate daily trading volume
 in the tens or even hundreds of billions. This allows the size of the reserve to be easily adjusted as
 the number of Libra in circulation expands or contracts.
+
+
+**Mint & Burn Libras**
+
+> The Libra Association is the only party able to create
+> (mint) and destroy (burn) Libra. Coins are only minted when authorized resellers have purchased those coins
+> from the association with real assets to fully back the new coins. 
+> Coins are only burned when the authorized
+> resellers sell Libra coin to the association in exchange for the underlying assets. 
+> Since authorized resellers will always be able to sell Libra coins to the reserve at a price equal to the value of the basket, 
+> the Libra Reserve acts as a "buyer of last resort." 
+>
+> (Source: Libra White Paper)
+
+
+## Digital Identity (Id)
+
+_Open Identity (Id) Standard_
+
+> An additional goal of the Libra association is to develop and promote an open identity standard.
+> We believe that decentralized and portable digital identity is a prerequisite to financial inclusion and competition.
+>
+> (Source: Libra White Paper)
 
 
 
