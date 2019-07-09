@@ -14,14 +14,18 @@ web: [`libra.org`](https://libra.org)
 > Libra's mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 >
 > This document outlines our plans for a new decentralized blockchain, a low-volatility cryptocurrency, 
-> and a contract platform that together aim to create a new opportunity for responsible financial services innovation...
->
-> Libra's goal: A stable [crypto] currency built on a secure and stable open-source blockchain, 
-> backed by a reserve of real assets, and governed by an independent association.
+> and a contract platform that together aim to create a new opportunity for responsible financial services innovation.
+
 
 
 
 ## Currency / Money
+
+> Libra's goal: A stable cryptocurrency built on a secure and stable open-source blockchain, 
+> backed by a reserve of real assets, and governed by an independent association.
+>
+> (Source: Libra White Paper)
+
 
 Libra is a stable coin backed by a basket of (four?) currencies (USD, EURO, GBP, JPY), 
 and US Treasury securities in an attempt to avoid volatility (and speculation). 
