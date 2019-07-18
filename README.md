@@ -379,6 +379,7 @@ The Libra name is a combination of money, justice, and freedom.
 
 Official
 
+- [Libra Testimony @ US Senate, Committee on Banking, PDF Download (~100k, 7 Pages)](https://www.banking.senate.gov/imo/media/doc/Marcus%20Testimony%207-16-19.pdf) by David Marcus (Libra / Calibra Project Chief / Head), July 16, 2019
 - [Libra, 2 weeks in](https://www.facebook.com/notes/david-marcus/libra-2-weeks-in/10158616513819148/) by David Marcus (Libra / Calibra Project Chief / Head), July 3, 2019
 - [Libra: The Path Forward](https://developers.libra.org/blog/2019/06/18/the-path-forward) by Libra Engineering Team, June 18, 2019 - Today we are announcing the Libra testnet, a live demonstration of an early prototype of the technology behind Libra - a simple global currency and financial infrastructure that can empower billions of people...
 
@@ -388,7 +389,24 @@ Neutral
 - [First Look: Libra](https://info.binance.com/en/research/marketresearch/libra.html) by Binance Research, June 18th 2019 - An in-depth review of Facebook's long-anticipated entry into cryptocurrency
 
 
+
+Regulation, Regulation, Regulation
+
+- [[US] Fed[eral] [Reserve] chief [Jerome Powell] calls for Facebook to halt Libra project until concerns addressed](https://www.reuters.com/article/us-usa-fed-powell-libra/fed-chief-calls-for-facebook-to-halt-libra-project-until-concerns-addressed-idUSKCN1U51VE), July 10, 2019, Reuters
+
+
 Skeptic / Critical Thinking
+
+- [Why Facebook's Libra currency gets the thumbs down](https://www.theguardian.com/business/2019/jul/02/why-facebook-libra-currency-gets-the-thumbs-down) by Joseph Stiglitz, July 2, 2019 - Facebook has earned a level of distrust that took the banking sector much longer to achieve. Time and again, Facebook's leaders, faced with a choice between money and honouring their promises, 
+have grabbed the money. And nothing could be more about money than creating a new currency. 
+Only a fool would trust Facebook with his or her financial wellbeing. 
+But maybe that's the point: with so much personal data on some 2.4bn monthly active users, 
+who knows better than Facebook just how many suckers are born every minute?
+
+- [The Real Threat From Facebook's Libra Coin](https://www.forbes.com/sites/francescoppola/2019/06/30/the-real-threat-from-facebooks-libra-coin/) by Frances Coppola, June 30, 2019 - Facebook's Libra cryptocurrency is generating an immense amount of hype. 
+Some hail it as the beginning of the end of sovereign currencies. 
+Others believe it will draw people into the cryptocurrency world, 
+leading them inexorably to place their faith in the One True Cryptocurrency, Bitcoin...
 
 - [Facebook's New Currency Has Big Claims and Bad Ideas - Libra is an ideological project, not a practical one](https://foreignpolicy.com/2019/06/24/971554-facebook-bitcoin-libra-crypto-bad/) by David Gerard (Foreign Policy), June 24, 2019 - Libra has certainly demonstrated one of the main characteristics of blockchain projects - grandiose claims and egregious nonsense...
 
