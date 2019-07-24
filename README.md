@@ -400,6 +400,8 @@ Neutral
 
 Regulation, Regulation, Regulation
 
+
+- [Uncle Sam weighs Libra](https://decrypt.co/7910/uncle-sam-weighs-libra) by Ben Munster (Decrypt), July 16, 2019 - Facebook's David Marcus spoke before [the US] Congress on the company's upcoming pseudo-bank, Libra. The oldies on Capitol Hill [in Washington] could barely conceal their contempt...
 - [[US] Fed[eral] [Reserve] chief [Jerome Powell] calls for Facebook to halt Libra project until concerns addressed](https://www.reuters.com/article/us-usa-fed-powell-libra/fed-chief-calls-for-facebook-to-halt-libra-project-until-concerns-addressed-idUSKCN1U51VE), July 10, 2019, Reuters
 
 
