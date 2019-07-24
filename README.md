@@ -33,6 +33,14 @@ Facebook has announced that each of the (100?) partners will stake an initial US
 
 (Source: [Libra (cryptocurrency) @ Wikipedia](https://en.wikipedia.org/wiki/Libra_(cryptocurrency)))
 
+
+Q: What's a Microlibra? What's the smallest Libra subunit? 
+
+A: Libra can be broken into 1 million smaller units, that is, 0.000001 Libra (six digits).
+The official name for the smallest 0.000001 Libra unit is Microlibra. 
+
+
+
 **Libra Rerseve**
 
 - The Official Libra Reserve White Paper, [PDF Download (~40k, 4 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-reserve.pdf)
