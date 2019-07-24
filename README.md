@@ -416,6 +416,8 @@ Scams, Scams, Scams - The Art of the Steal
 
 Skeptic / Critical Thinking
 
+- [Thoughts on Facebook's Libra Coin](https://prestonbyrne.com/2019/07/17/libra/) by Preston Byrne, July 17, 2019 - Permissioned blockchains: where it all began...  
+
 - [Why Facebook's Libra currency gets the thumbs down](https://www.theguardian.com/business/2019/jul/02/why-facebook-libra-currency-gets-the-thumbs-down) by Joseph Stiglitz, July 2, 2019 - Facebook has earned a level of distrust that took the banking sector much longer to achieve. Time and again, Facebook's leaders, faced with a choice between money and honouring their promises, 
 have grabbed the money. And nothing could be more about money than creating a new currency. 
 Only a fool would trust Facebook with his or her financial wellbeing. 
