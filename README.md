@@ -382,6 +382,10 @@ Q: Why is it called Libra? A: The Libra name was inspired by
 The Libra name is a combination of money, justice, and freedom.
 
 
+Did you know? David Marcus is the public face of Facebook's Libra - but Morgan Beller started the cryptocurrency effort in 2017, 
+before Marcus was even at Facebook. (Source: [Meet Morgan Beller, the 26-year-old woman behind Facebook's plan to make its own currency](https://www.cnbc.com/2019/07/20/facebook-libra-partly-created-by-female-engineer-morgan-beller.html), by Salvador Rodriguez (CNBC), July 20, 2019) 
+
+
 
 ## Articles
 
@@ -403,6 +407,11 @@ Regulation, Regulation, Regulation
 
 - [Uncle Sam weighs Libra](https://decrypt.co/7910/uncle-sam-weighs-libra) by Ben Munster (Decrypt), July 16, 2019 - Facebook's David Marcus spoke before [the US] Congress on the company's upcoming pseudo-bank, Libra. The oldies on Capitol Hill [in Washington] could barely conceal their contempt...
 - [[US] Fed[eral] [Reserve] chief [Jerome Powell] calls for Facebook to halt Libra project until concerns addressed](https://www.reuters.com/article/us-usa-fed-powell-libra/fed-chief-calls-for-facebook-to-halt-libra-project-until-concerns-addressed-idUSKCN1U51VE), July 10, 2019, Reuters
+
+
+Scams, Scams, Scams - The Art of the Steal
+
+- [Facebook's Libra currency spawns a wave of fakes, including on Facebook itself](https://www.washingtonpost.com/technology/2019/07/22/facebooks-libra-currency-spawns-wave-fakes-including-facebook-itself) by Drew Harwell, Tony Romm and Cat Zakrzewski (Washington Post), July 22, 2019 - Roughly a dozen fake accounts, pages and groups scattered across Facebook and its photo-sharing app Instagram present themselves as official hubs for the digital currency, in some cases offering to sell Libra at a discount if viewers visit potentially fraudulent, third-party websites... 
 
 
 Skeptic / Critical Thinking
