@@ -334,7 +334,7 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 
 ## Testnet
 
-**Blockchain Explorer**
+### Blockchain Explorer
 
 _Transactions, Transactions, Transactions_
 
@@ -343,14 +343,44 @@ _Transactions, Transactions, Transactions_
 - [Libranaut (Testnet Explorer)](https://libranaut.io)
 - [Libratics (Testnet Explorer)](http://libratics.com)
 
+### Wallets 
 
-**Libraries**
+Articles & Live Demos
 
-- [Libra gRPC in JavaScript](https://github.com/bonustrack/libra-grpc) by Fabien - A lightweight JavaScript library for Libra
-- [Libra gRPC in Python](https://github.com/egorsmkv/libra-grpc-py) by Yehor Smoliakov
+- [The First Libra Wallet Proof-of-Concept (POC) - Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
+by Nattapon Nimakul, June 23, 2019
+  - [Live Demo](https://dev.kulap.io/libra/), [(Source)](https://github.com/kulapio/libra-wallet-poc)
 
 
-**More**
+### Libraries
+
+
+**JavaScript**
+
+- [Libra Core](https://github.com/perfectmak/libra-core) by Perfect Makanju  - a javascript library client that can be used to interact with libra nodes. Coded in typescript
+- [Libra gRPC](https://github.com/bonustrack/libra-grpc) by Fabien - a lightweight JavaScript library for Libra
+- [Libra API](https://github.com/bonustrack/libra-api) by Fabien  - a REST API for Libra blockchain
+- [Libra Web](https://github.com/bandprotocol/libra-web) by Paul C. (Band Protocol) -  a javascript client for Libra blockchain. The library allows javascript program to interact with Libra nodes with protobuf message through grpc web. It works in both browser and node.js environments
+
+**Python**
+
+- [PyLibra](https://github.com/bandprotocol/pylibra) by Sorawit Suriyakarn (Band Protocol) - a python client for Libra blockchain. The library allows Python program to interact with Libra nodes with protobuf message through grpc 
+- [Libra gRPC](https://github.com/egorsmkv/libra-grpc-py) by Yehor Smoliakov - a gRPC client for Libra in Python
+
+**Go**
+
+- [Libra Go Client](https://github.com/codemaveric/libra-go) by Ibraheem Bello - a go client for interacting with Libra blockchain
+- [Libra Go SDK](https://github.com/philippgille/libra-sdk-go) by Philipp Gillé - a go dev kit for Libra
+- [Libra Example](https://github.com/phlip9/libra_example) by Philip Kannegaard Hayes - example Libra Go client 
+
+**Java Libraries**
+
+- [Libraj](https://github.com/libra-vista/libraj) by Wen Shen Jun  - a java library client that can be used to interact with libra nodes
+- [Jlibra](https://github.com/ketola/jlibra) by Sauli Ketola  - a Java library for interacting with the Libra blockchain.
+
+
+
+### More
 
 - [#libra](https://github.com/topics/libra) Topic @ GitHub
 
@@ -394,6 +424,8 @@ Official
 - [Libra Testimony @ US Senate, Committee on Banking, PDF Download (~100k, 7 Pages)](https://www.banking.senate.gov/imo/media/doc/Marcus%20Testimony%207-16-19.pdf) by David Marcus (Libra / Calibra Project Chief / Head), July 16, 2019
 - [Libra, 2 weeks in](https://www.facebook.com/notes/david-marcus/libra-2-weeks-in/10158616513819148/) by David Marcus (Libra / Calibra Project Chief / Head), July 3, 2019
 - [Libra: The Path Forward](https://developers.libra.org/blog/2019/06/18/the-path-forward) by Libra Engineering Team, June 18, 2019 - Today we are announcing the Libra testnet, a live demonstration of an early prototype of the technology behind Libra - a simple global currency and financial infrastructure that can empower billions of people...
+- [Coming in 2020: Calibra - A New Digital Wallet for a New Digital Currency](https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/) by Facebook Newsroom, June 18, 2019
+
 
 
 Neutral
