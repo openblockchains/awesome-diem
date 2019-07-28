@@ -338,6 +338,7 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 
 _Transactions, Transactions, Transactions_
 
+- [iLibraExplorer](https://ilibraexplorer.com)
 - [Libra Testnet Explorer](https://librabrowser.io), [(Source)](https://github.com/Disk1n/LibraBrowser) by [Gal Diskin](https://twitter.com/gal_diskin)   - incl. faucet to mint your own free (test) libra tokens / money
 - [Libra Vista (Testnet Explorer)](https://www.libravista.com)
 - [Libranaut (Testnet Explorer)](https://libranaut.io)
