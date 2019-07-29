@@ -373,6 +373,7 @@ by Nattapon Nimakul, June 23, 2019
 - [Libra Go Client](https://github.com/codemaveric/libra-go) by Ibraheem Bello - a go client for interacting with Libra blockchain
 - [Libra Go SDK](https://github.com/philippgille/libra-sdk-go) by Philipp Gillé - a go dev kit for Libra
 - [Libra Example](https://github.com/phlip9/libra_example) by Philip Kannegaard Hayes - example Libra Go client 
+- [go-libra](https://github.com/the729/go-libra) by the729 - a Libra go client library with crypto verifications
 
 **Java Libraries**
 
