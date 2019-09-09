@@ -384,7 +384,7 @@ by Nattapon Nimakul, June 23, 2019
 
 ### Courses / Code Schools
 
-**[CryptpZombies (Libra/Move Edition)](https://cryptozombies.io/libra/)** Upcoming! -
+**[CryptoZombies (Libra/Move Edition)](https://cryptozombies.io/libra/)**  Upcoming! -
 learn Libra blockchain contract programming by coding your own simple game using the Move programming language; completely free and open source
 
 
