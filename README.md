@@ -440,6 +440,8 @@ Official
 Neutral
 
 - [First Look: Libra](https://info.binance.com/en/research/marketresearch/libra.html) by Binance Research, June 18th 2019 - An in-depth review of Facebook's long-anticipated entry into cryptocurrency
+- [Libra: Understanding Facebook's Digital Currency](https://pages.consensys.net/understanding-libra)
+by ConsenSys, Sept 2019 - 21-page guide booklet (free PDF download; email registration required)
 
 
 
