@@ -464,6 +464,8 @@ Scams, Scams, Scams - The Art of the Steal
 
 Skeptic / Critical Thinking
 
+- [Facebook Libra is Architecturally Unsound](http://www.stephendiehl.com/posts/libra.html) by Stephen Diehl, November 2019 - Libra's byzantine tolerance on a permissioned network is an incoherent design; Libra has no transaction privacy; Libra HotStuff BFT is not capable of achieving the throughput necessary for a payment rail; ...   Answer: [Factual inaccuracies of "Facebook Libra is Architecturally Unsound"](https://tonyarcieri.com/factual-inaccuracies-of-facebook-libra-is-architecturally-unsound) by Tony Arcieri  
+
 - [Thoughts on Facebook's Libra Coin](https://prestonbyrne.com/2019/07/17/libra/) by Preston Byrne, July 17, 2019 - Permissioned blockchains: where it all began...  
 
 - [Why Facebook's Libra currency gets the thumbs down](https://www.theguardian.com/business/2019/jul/02/why-facebook-libra-currency-gets-the-thumbs-down) by Joseph Stiglitz, July 2, 2019 - Facebook has earned a level of distrust that took the banking sector much longer to achieve. Time and again, Facebook's leaders, faced with a choice between money and honouring their promises, 
