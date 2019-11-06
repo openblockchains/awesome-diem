@@ -417,10 +417,14 @@ github: [`open-libra`](https://github.com/open-libra)
 build on Libra's strengths but extend it where needed. OpenLibra aims to be technically (Move Language) and financially compatible (Libra coin), embracing what is powerful, but also replacing what's concerning in a non-adversarial way. 
 
 
-
 ## Timeline
 
 - June 18th, 2019 - Libra Testnet Live and Open Source Libra Client (Core) Code
+
+<!-- break -->
+
+![](i/libra-mainnet-milestones.png)
+
 
 
 
