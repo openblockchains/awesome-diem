@@ -405,6 +405,19 @@ by Blockchain Lab of Beijing Normal University and White Matrix Corporation
 - [Connecting to Libra TestNet on Windows with the Windows Subsystem for Linux (WSL)](https://medium.com/coinmonks/connecting-to-libra-testnet-on-windows-with-wsl-45bdfd23150a) by Ibraheem Kolawole Bello, June 19th, 2019
 
 
+## Forks & Alternatives
+
+### Open Libra
+
+_An open platform for financial inclusion. Not run by Facebook._
+
+web: [`openlibra.io`](https://www.openlibra.io),
+github: [`open-libra`](https://github.com/open-libra)
+
+build on Libra's strengths but extend it where needed. OpenLibra aims to be technically (Move Language) and financially compatible (Libra coin), embracing what is powerful, but also replacing what's concerning in a non-adversarial way. 
+
+
+
 ## Timeline
 
 - June 18th, 2019 - Libra Testnet Live and Open Source Libra Client (Core) Code
