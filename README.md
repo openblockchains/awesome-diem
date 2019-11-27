@@ -472,6 +472,9 @@ Official
 - [Libra: The Path Forward](https://developers.libra.org/blog/2019/06/18/the-path-forward) by Libra Engineering Team, June 18, 2019 - Today we are announcing the Libra testnet, a live demonstration of an early prototype of the technology behind Libra - a simple global currency and financial infrastructure that can empower billions of people...
 - [Coming in 2020: Calibra - A New Digital Wallet for a New Digital Currency](https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/) by Facebook Newsroom, June 18, 2019
 
+Pro
+
+- [(Christian Catalini) Libra co-creator (and Calibra Head Economist) explains, defends Facebook's cryptocurrency](https://mitsloan.mit.edu/ideas-made-to-matter/libra-co-creator-explains-defends-facebooks-cryptocurrency) by Beth Stackpole, MIT Sloan Business School Newsletter, Nov 13, 2019
 
 
 Neutral
