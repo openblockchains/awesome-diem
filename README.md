@@ -350,7 +350,8 @@ _Transactions, Transactions, Transactions_
 
 Official
 
-**Calibra** (web: [`calibra.com`](https://calibra.com)) - Facebook's official wallet for Libra. Calibra will be available in the Apple App Store, Google Play Store, integrated into Facebook's Messenger and WhatsApp. Calibra's launch is planned for the 2nd half of 2020. Calibra will be a custodial wallet and will require KYC (Know Your Customer).
+**Calibra** (web: [`calibra.com`](https://calibra.com)) - Facebook's official wallet for Libra. Calibra will be available in the Apple App Store, Google Play Store, integrated into Facebook's Messenger and WhatsApp. Calibra's launch is planned for the 2nd half of 2020. Calibra will be a custodial wallet - meaning they hold the actual Libra tokens - for the user (that's you!) - 
+and will require KYC (Know Your Customer).
 
 
 Articles & Live Demos
