@@ -466,6 +466,7 @@ before Marcus was even at Facebook. (Source: [Meet Morgan Beller, the 26-year-ol
 
 Official
 
+- [Why building a new protocol for money is the only way to truly change the game for people](https://medium.com/@davidmarcus/why-building-a-new-protocol-for-money-is-the-only-way-to-truly-change-the-game-for-people-254c55407e22) by David Marcus (Libra / Calibra Project Chief / Head), July 25, 2019 
 - [Libra Testimony @ US Senate, Committee on Banking, PDF Download (~100k, 7 Pages)](https://www.banking.senate.gov/imo/media/doc/Marcus%20Testimony%207-16-19.pdf) by David Marcus (Libra / Calibra Project Chief / Head), July 16, 2019
 - [Libra, 2 weeks in](https://www.facebook.com/notes/david-marcus/libra-2-weeks-in/10158616513819148/) by David Marcus (Libra / Calibra Project Chief / Head), July 3, 2019
 - [Libra: The Path Forward](https://developers.libra.org/blog/2019/06/18/the-path-forward) by Libra Engineering Team, June 18, 2019 - Today we are announcing the Libra testnet, a live demonstration of an early prototype of the technology behind Libra - a simple global currency and financial infrastructure that can empower billions of people...
