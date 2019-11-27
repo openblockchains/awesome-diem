@@ -488,6 +488,11 @@ by Coogan Brennan (ConsenSys), Sept 2019 - 21-page guide booklet (free PDF downl
 
 Regulation, Regulation, Regulation
 
+There's a [bipartisan bill in US Congress](https://sylviagarcia.house.gov/media/press-releases/rep-sylvia-garcia-and-rep-lance-gooden-introduce-managed-stablecoins-are) to firmly rule that managed stablecoins - they mean Libra - are securities. 
+Sylvia Garcia (D-TX) and Lance Gooden (R-TX) are pretty sure that Libra-like tokens would be securities already - it was 
+immediately obvious that this would constitute an exchange-traded fund or synthetic foreign-exchange derivative - but 
+they want to nail it down. Whether this bill has legs depends ...
+(via [David Gerard, Nov 22, 2019 - News: Libra and stablecoins and [the US Treasury's Financial Crimes Enforcement Network] (FinCEN)](https://davidgerard.co.uk/blockchain/2019/11/22/news-libra-and-stablecoins-and-fincen-china-still-hates-crypto-trading-tether/))
 
 - [Uncle Sam weighs Libra](https://decrypt.co/7910/uncle-sam-weighs-libra) by Ben Munster (Decrypt), July 16, 2019 - Facebook's David Marcus spoke before [the US] Congress on the company's upcoming pseudo-bank, Libra. The oldies on Capitol Hill [in Washington] could barely conceal their contempt...
 - [[US] Fed[eral] [Reserve] chief [Jerome Powell] calls for Facebook to halt Libra project until concerns addressed](https://www.reuters.com/article/us-usa-fed-powell-libra/fed-chief-calls-for-facebook-to-halt-libra-project-until-concerns-addressed-idUSKCN1U51VE), July 10, 2019, Reuters
