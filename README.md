@@ -353,6 +353,8 @@ Articles & Live Demos
 - [The First Libra Wallet Proof-of-Concept (POC) - Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
 by Nattapon Nimakul, June 23, 2019
   - [Live Demo](https://dev.kulap.io/libra/), [(Source)](https://github.com/kulapio/libra-wallet-poc)
+- [Libra Paper Wallet](https://librapaperwallet.com) ([Source](https://github.com/librastartup/libra-paper-wallet)) by Libra Startup; generate a new Libra cryptocurrency wallet address, its QR code, and the recovery seed - 24 words
+
 
 
 ### Libraries
@@ -369,6 +371,10 @@ by Nattapon Nimakul, June 23, 2019
 
 - [PyLibra](https://github.com/bandprotocol/pylibra) by Sorawit Suriyakarn (Band Protocol) - a python client for Libra blockchain. The library allows Python program to interact with Libra nodes with protobuf message through grpc 
 - [Libra gRPC](https://github.com/egorsmkv/libra-grpc-py) by Yehor Smoliakov - a gRPC client for Libra in Python
+
+**Ruby**
+
+- [Libra Client](https://github.com/yuan-xy/libra_client_ruby) by Yuan - a client library that lets you interact with Libra nodes with protobuf message through gRPC
 
 **Go**
 
@@ -387,6 +393,7 @@ by Nattapon Nimakul, June 23, 2019
 
 [**CryptoZombies (Libra/Move Edition)**](https://cryptozombies.io/libra/)  Upcoming! -
 learn Libra blockchain contract programming by coding your own  game using the Move programming language; completely free and open source
+- [**Libra Basics Lesson 1 Live - Becoming a Shop Owner**](https://cryptozombies.io/en/lesson/12/chapter/1)  -- In this first lesson, you'll learn how to interact with the Libra testnet blockchain using the command line interface (CLI). This perfectly simulates how you can interact with the REAL libra testnet today. Later, we'll show you how to install it yourself.
 
 [**MoveCastle**](https://learnlibramove.com) - learn Libra blockchain contract programming 
 by coding your own game using the Move programming language;
@@ -417,6 +424,7 @@ github: [`open-libra`](https://github.com/open-libra)
 build on Libra's strengths but extend it where needed. OpenLibra aims to be technically (Move Language) and financially compatible (Libra coin), embracing what is powerful, but also replacing what's concerning in a non-adversarial way. 
 
 
+
 ## Timeline
 
 - June 18th, 2019 - Libra Testnet Live and Open Source Libra Client (Core) Code
@@ -425,6 +433,7 @@ build on Libra's strengths but extend it where needed. OpenLibra aims to be tech
 
 ![](i/libra-mainnet-milestones.png)
 
+What's upcoming? See the [Libra Core Roadmap](https://github.com/orgs/libra/projects/1)
 
 
 
@@ -506,13 +515,6 @@ leading them inexorably to place their faith in the One True Cryptocurrency, Bit
 
 
 
-## Articles (de)
-
-- [Warum die Politik wegen Facebooks Libra-Coin besorgt ist – und was sie daran nicht versteht](https://bitcoinblog.de/2019/06/25/ueberwachungskapitalismus-geldwaesche-und-gefahr-fuer-die-stabilitaet-des-finanzwesens/) by Christoph Bergmann (BitcoinBlog.de) , June 25, 2019
-- [Facebooks Zuckerbucks: Es hätte schlimmer kommen können](https://bitcoinblog.de/2019/06/18/facebooks-zuckerbucks-es-haette-schlimmer-kommen-koennen/) by Christoph Bergmann (BitcoinBlog.de), June 18, 2019
-- [Facebooks GlobalCoin: Gedeckt durch einem Korb anderer Währungen](https://bitcoinblog.de/2019/06/12/facebooks-globalcoin-gedeckt-durch-einem-korb-anderer-waehrungen/) by Christoph Bergmann (BitcoinBlog.de), June 12, 2019
-
-
 ## Awesome Awesomeness
 
 _A curated list of awesome lists_
@@ -522,6 +524,10 @@ _A curated list of awesome lists_
 - [Awesome Libra](https://github.com/methuz/Awesome-Libra) by Methuz Kaewsaikao 
 - [#awesome-libra](https://github.com/topics/awesome-libra) Topic @ GitHub
 
+More curated lists or dashboards
+
+- [Librazilla](https://librazilla.com) - Libra cryptocurrency resources dashboard; tools, tutorials, docs, links and other useful things for the Libra blockchain
+ 
 
 
 ## Meta
