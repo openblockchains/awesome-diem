@@ -38,6 +38,15 @@ Appendix: 2010–2013: The rise and fall of Facebook Credits_
 
 
 
+## What's News?
+
+[**Facebook's Libra may launch January 2021, with US dollars only - what this means**](https://davidgerard.co.uk/blockchain/2020/11/27/facebook-libra-may-launch-january-2021-with-us-dollars-only-what-this-means/) - 
+by David Gerard, November 2020 -- _There will only be a US dollar token running on the network — no EUR or GBP, no synthetic Libra currency;
+Facebook's Novi (formerly Calibra) wallet is ready as a product, to be released in the US and some Latin American countries - "high-volume remittance corridors"; no date as yet, though Facebook hopes for January 2021
+
+
+
+
 ## Libra
 
 web: [`libra.org`](https://libra.org)
