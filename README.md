@@ -145,7 +145,7 @@ c) replacing the originally planned transition to a permissionless form of [bloc
 governance to a market-driven open and competitive network [managed by Facebook].
 
 d) building stronger protections into the design of the Libra Reserve 
-to protect consumers, even in the most adverse [bank run getting-your-money-back] 
+to protect consumers, even in the most adverse [bank run can-I-get-my-money-back] 
 situations.",
 
 says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
@@ -201,10 +201,10 @@ Historic
 > As a result, one of the association's directives will be to work with the community to research and implement
 > this transition, which will begin within five years of the public launch of the Libra Blockchain and ecosystem.
 
-V2.0 Update
+V2.0 Update - Nine Month Later in April 2020
 
 A: "Most notable evolutions are:
-... replacing the originally planned transition to a permissionless form of [public blockchain]
+... replacing the originally planned transition to a permissionless form of [blockchain]
 governance to a market-driven open and competitive network [managed by Facebook].",
 says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
 
