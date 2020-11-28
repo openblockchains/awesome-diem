@@ -54,7 +54,7 @@ web: [`libra.org`](https://libra.org)
 
 ## Historic - Version 1.0 - Anno June 2019
 
-- [The Official Libra White Paper](https://libra.org/en-US/white-paper), [PDF Download (~600k, 12 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra.pdf) 
+- The Official Libra White Paper (V1.0), [PDF Download (~600k, 12 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra.pdf) 
 
 > Libra's mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 >
@@ -127,6 +127,16 @@ _Open Identity (Id) Standard_
 
 
 ## White Paper, Version 2.0 - April 2020 Update (Nine Month Later)
+
+> Note to readers: The first Libra Association white paper was published in June 2019. 
+> This new [Libra] Association white paper, published in April 2020, 
+> is intended to be a stand-alone update regarding the plans of the [Libra] Association. 
+> Additionally, supporting technical papers also published in June 2019 have been edited or retired.
+>
+> (Source: Libra White Paper (V2.0))
+
+- [The Official Libra White Paper (V2.0)](https://libra.org/en-US/white-paper), [PDF Download (~1,300k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-v2.pdf) 
+
 
 Q: What's changed?
 
