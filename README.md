@@ -5,6 +5,32 @@ A collection about all things Libra, Move & ZuckerBucks - Let's reinvent money w
 _Moving money around the world should be as easy and cheap as sending a text message (or a photo)._
 
 
+## Books
+
+[**Libra Shrugged: How Facebook Tried to Take Over the Money**](https://davidgerard.co.uk/blockchain/libra/) 
+by David Gerard, November 2020, 182 Pages --
+_Introduction: Taking over the money  ++
+A user's guide to Libra   ++
+The genesis of Libra: Beller's blockchain ++
+To launch a Libra: Let’s start a crypto  ++
+Bitcoin: why Libra is like this  ++
+The Libra White Papers  ++
+Banking the unbanked  ++
+The Libra Reserve plan and economic stability ++
+Libra, privacy and your digital identity  ++
+The regulators recoil in horror  ++
+David Marcus before the US House and Senate ++
+July to September 2019: Libra runs the gauntlet  ++
+October 2019: Libra's bad month  ++
+Mark Zuckerberg before the US House  ++
+November 2019: The comedown  ++
+Central bank digital currencies  ++
+Epilogue: Libra 2.0: not dead yet  ++
+Appendix: 2010–2013: The rise and fall of Facebook Credits_
+
+
+
+
 ## Libra
 
 web: [`libra.org`](https://libra.org)
