@@ -8,7 +8,12 @@ _Moving money around the world should be as easy and cheap as sending a text mes
 ## Books
 
 
-![](i/libra-shrugged.png){: style="float: left"}
+<!-- todo/fix: check how to make image float left
+    kramdown-style attribute list no longer work on github?! e.g.
+    ![](i/libra-shrugged.png){: style="float: left"}
+  -->
+  
+![](i/libra-shrugged.png)
 [**Libra Shrugged: How Facebook Tried to Take Over the Money**](https://davidgerard.co.uk/blockchain/libra/) 
 by David Gerard, November 2020, 182 Pages --
 _Introduction: Taking over the money  ++
