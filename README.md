@@ -7,7 +7,7 @@ _Moving money around the world should be as easy and cheap as sending a text mes
 
 ## Books
 
-[**Libra Shrugged: How Facebook Tried to Take Over the Money**](https://davidgerard.co.uk/blockchain/libra/) 
+![](i/libra-shrugged.png)  [**Libra Shrugged: How Facebook Tried to Take Over the Money**](https://davidgerard.co.uk/blockchain/libra/) 
 by David Gerard, November 2020, 182 Pages --
 _Introduction: Taking over the money  ++
 A user's guide to Libra   ++
