@@ -444,14 +444,14 @@ and Calibra [the official Facebook Libra wallet] all the time", says David Marcu
 **Novi** (web: [`novi.com`](https://www.novi.com)) - Facebook's official wallet for Libra from Facebook Financial (F2) that also
 incl. Facebook Pay, WhatsApp Pay, among all things payments.
 
-- [Novis's Blockchain and Cryptoeconomics Team Page @ Facebook Research](https://research.fb.com/category/blockchain-and-cryptoeconomics/)
-  include publications / papers such as:
-  - FastPay: High-Performance Byzantine Fault Tolerant Settlement by Mathieu Baudet, George Danezis, Alberto Sonnino, November 2020
-  - Winkle: Foiling Long-Range Attacks in Proof-of-Stake Systems by Sarah Azouvi, George Danezis, Valeria Nikolaenko,  October 2020
-  - Taming the many EdDSAs by Kostas Chalkias, François Garillot, Valeria Nikolaenko,  October 2020
-  - The Move Prover by Emma Zhong, Kevin Cheang, Shaz Qadeer, Wolfgang Grieskamp, Sam Blackshear, Junkil Park, Yoni Zohar, Clark Barrett, David Dill, October 2020
-  - and many more
+- [Novis's Blockchain and Cryptoeconomics Team Page @ Facebook Research](https://research.fb.com/category/blockchain-and-cryptoeconomics/) includes publications / papers such as:
+    - FastPay: High-Performance Byzantine Fault Tolerant Settlement by Mathieu Baudet, George Danezis, Alberto Sonnino, November 2020
+    - Winkle: Foiling Long-Range Attacks in Proof-of-Stake Systems by Sarah Azouvi, George Danezis, Valeria Nikolaenko,  October 2020
+    - Taming the many EdDSAs by Kostas Chalkias, François Garillot, Valeria Nikolaenko,  October 2020
+    - The Move Prover by Emma Zhong, Kevin Cheang, Shaz Qadeer, Wolfgang Grieskamp, Sam Blackshear, Junkil Park, Yoni Zohar, Clark Barrett, David Dill, October 2020
+    - and many more
 
+<!-- break -->
 
 **Others**
 
