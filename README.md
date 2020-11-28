@@ -5,7 +5,7 @@ A collection about all things Libra, Move & ZuckerBucks - Let's reinvent money w
 _Moving money around the world should be as easy and cheap as sending a text message (or a photo)._
 
 
-## Books
+## Best Book of the Year
 
 
 <!-- todo/fix: check how to make image float left
