@@ -478,12 +478,14 @@ by Blockchain Lab of Beijing Normal University and White Matrix Corporation
 
 ## Forks & Alternatives
 
+Historic
+
 ### Open Libra
 
 _An open platform for financial inclusion. Not run by Facebook._
 
-web: [`openlibra.io`](https://www.openlibra.io),
-github: [`open-libra`](https://github.com/open-libra)
+web: ~~`openlibra.io`~~,
+github: ~~`open-libra`~~
 
 build on Libra's strengths but extend it where needed. OpenLibra aims to be technically (Move Language) and financially compatible (Libra coin), embracing what is powerful, but also replacing what's concerning in a non-adversarial way. 
 
@@ -600,7 +602,9 @@ _A curated list of awesome lists_
 
 More curated lists or dashboards
 
-- [Librazilla](https://librazilla.com) - Libra cryptocurrency resources dashboard; tools, tutorials, docs, links and other useful things for the Libra blockchain
+Historic
+
+- Librazilla (web: ~~`librazilla.com`~~) - Libra cryptocurrency resources dashboard; tools, tutorials, docs, links and other useful things for the Libra blockchain
  
 
 
