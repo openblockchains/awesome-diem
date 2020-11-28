@@ -126,7 +126,7 @@ _Open Identity (Id) Standard_
 > (Source: Libra White Paper (V1.0))
 
 
-## White Paper, Version 2.0 - April 2020 Update
+## White Paper, Version 2.0 - April 2020 Update (Nine Month Later)
 
 Q: What's changed?
 
