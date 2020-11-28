@@ -59,14 +59,14 @@ web: [`libra.org`](https://libra.org)
 > and a contract platform that together aim to create a new opportunity for responsible financial services innovation.
 
 
+## Historic - Version 1.0
 
-
-## Currency / Money
+### Currency / Money
 
 > Libra's goal: A stable cryptocurrency built on a secure and stable open-source blockchain, 
 > backed by a reserve of real assets, and governed by an independent association.
 >
-> (Source: Libra White Paper)
+> (Source: Libra White Paper (V1.0))
 
 
 Libra is a stable coin backed by a basket of (four?) currencies (USD, EURO, GBP, JPY), 
@@ -85,7 +85,7 @@ The official name for the smallest 0.000001 Libra unit is Microlibra.
 
 **Libra Rerseve**
 
-- The Official Libra Reserve White Paper, [PDF Download (~40k, 4 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-reserve.pdf)
+- The Official Libra Reserve White Paper (V1.0), [PDF Download (~40k, 4 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-reserve.pdf)
 
 > Q: What are the actual assets that will be backing each Libra coin? A: The actual assets will be
 > a collection of low-volatility assets, including bank deposits and government securities in currencies
@@ -113,17 +113,42 @@ the number of Libra in circulation expands or contracts.
 > Since authorized resellers will always be able to sell Libra coins to the reserve at a price equal to the value of the basket, 
 > the Libra Reserve acts as a "buyer of last resort." 
 >
-> (Source: Libra White Paper)
+> (Source: Libra White Paper (V1.0))
 
 
-## Digital Identity (Id)
+### Digital Identity (Id)
 
 _Open Identity (Id) Standard_
 
 > An additional goal of the Libra association is to develop and promote an open identity standard.
 > We believe that decentralized and portable digital identity is a prerequisite to financial inclusion and competition.
 >
-> (Source: Libra White Paper)
+> (Source: Libra White Paper (V1.0))
+
+
+## White Paper, Version 2.0 - April 2020 Update
+
+Q: What's changed?
+
+A: "Most notable evolutions are:
+
+a) the creation of single currency stablecoins, 
+e.g. ≋USD, ≋EUR, ≋GBP, in addition to Libra Coin (≋LBR), 
+which will now be a Move blockchain contract "stitching" together 
+fixed nominal weights of underlying stablecoins. 
+
+b) a comprehensive network-level system around anti-money laundering (AML), 
+combatting the Financing of Terrorism (CFT), 
+and sanctions enforcement.
+
+c) replacing the originally planned transition to a permissionless form of [blockchain]
+governance to a market-driven open and competitive network [managed by Facebook].
+
+d) building stronger protections into the design of the Libra Reserve 
+to protect consumers, even in the most adverse [bank run getting-your-money-back] 
+situations.",
+
+says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
 
 
 
@@ -165,13 +190,24 @@ github: [`libra`](https://github.com/libra)
 > builds on the stability and reputation of existing institutions in the early days but transitions to a
 > fully open system over time.
 
+
 **Are We Decentralized Yet?**
+
+Historic
 
 - The Official Libra Roadmap White Paper from Members-Only (Permissioned) to Public (Permissionless) Blockchain, [PDF Download (~50k, 5 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-governance.pdf)
 
 > We believe that for the Libra network to achieve its full potential, it needs to be permissionless.
 > As a result, one of the association's directives will be to work with the community to research and implement
 > this transition, which will begin within five years of the public launch of the Libra Blockchain and ecosystem.
+
+V2.0 Update
+
+A: "Most notable evolutions are:
+... replacing the originally planned transition to a permissionless form of [public blockchain]
+governance to a market-driven open and competitive network [managed by Facebook].",
+says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
+
 
 
 
