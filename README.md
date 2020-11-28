@@ -394,13 +394,13 @@ _Transactions, Transactions, Transactions_
 
 Historic 
 
-~~**Calibra**~~ (web: ~~`calibra.com`~~) - Facebook's official wallet for Libra. Calibra will be available in the Apple App Store, Google Play Store, integrated into Facebook's Messenger and WhatsApp. Calibra's launch is planned for the 2nd half of 2020. Calibra will be a custodial wallet - meaning they hold the actual Libra tokens - for the user (that's you!) - 
+**Calibra** (web: ~~`calibra.com`~~) - Facebook's official wallet for Libra. Calibra will be available in the Apple App Store, Google Play Store, integrated into Facebook's Messenger and WhatsApp. Calibra's launch is planned for the 2nd half of 2020. Calibra will be a custodial wallet - meaning they hold the actual Libra tokens - for the user (that's you!) - 
 and will require KYC (Know Your Customer).
 
 Rebranded in May 2020
 
 [**Welcome to Novi (formerly Calibra)**](https://about.fb.com/news/2020/05/welcome-to-novi/) by David Marcus, Facebook, 
-Head of Novi (formerly Head of Calibra), May 26, 2020 -- _With Novi, sending money will be as easy as sending a message. You'll be able to use Novi as a stand-alone app, as well as in Messenger and WhatsApp. There will be no hidden charges to add, send, receive or withdraw money and your transfers will arrive instantly. All Novi customers will be verified using government-issued ID, and fraud protections will be built in throughout the app.
+Head of Novi (formerly Head of Calibra), May 26, 2020 -- _With Novi, sending money will be as easy as sending a message. You'll be able to use Novi as a stand-alone app, as well as in Messenger and WhatsApp. There will be no hidden charges to add, send, receive or withdraw money and your transfers will arrive instantly. All Novi customers will be verified using government-issued ID, and fraud protections will be built in throughout the app._
 
 Q: Why the name change?  A: "People were confusing Libra [the "pseudo-independent" payment network - "blockchain"] 
 and Calibra [the official Facebook Libra wallet] all the time", says David Marcus.
