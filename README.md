@@ -51,15 +51,15 @@ Facebook's Novi (formerly Calibra) wallet is ready as a product, to be released 
 
 web: [`libra.org`](https://libra.org)
 
+
+## Historic - Version 1.0 - Anno June 2019
+
 - [The Official Libra White Paper](https://libra.org/en-US/white-paper), [PDF Download (~600k, 12 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra.pdf) 
 
 > Libra's mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 >
 > This document outlines our plans for a new decentralized blockchain, a low-volatility cryptocurrency, 
 > and a contract platform that together aim to create a new opportunity for responsible financial services innovation.
-
-
-## Historic - Version 1.0
 
 ### Currency / Money
 
