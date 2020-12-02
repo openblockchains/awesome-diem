@@ -73,20 +73,19 @@ Q: Why is it called Diem? A: Diem stems from the famous latin phrase 'Carpe Diem
 
 ## Historic - Libra Version 1.0 - Anno June 2019
 
-- The Official Libra White Paper (V1.0), [PDF Download (~600k, 12 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra.pdf) 
+The Official (Historic) Libra White Paper (V1.0), [PDF Download (~600k, 12 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra.pdf) 
 
 > Libra's mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 >
 > This document outlines our plans for a new decentralized blockchain, a low-volatility cryptocurrency, 
 > and a contract platform that together aim to create a new opportunity for responsible financial services innovation.
 
-### Currency / Money
+**Currency / Money**
 
 > Libra's goal: A stable cryptocurrency built on a secure and stable open-source blockchain, 
 > backed by a reserve of real assets, and governed by an independent association.
 >
 > (Source: Libra White Paper (V1.0))
-
 
 Libra is a stable coin backed by a basket of (four?) currencies (USD, EURO, GBP, JPY), 
 and US Treasury securities in an attempt to avoid volatility (and speculation). 
@@ -101,10 +100,9 @@ A: Libra can be broken into 1 million smaller units, that is, 0.000001 Libra (si
 The official name for the smallest 0.000001 Libra unit is Microlibra. 
 
 
-
 **Libra Rerseve**
 
-- The Official Libra Reserve White Paper (V1.0), [PDF Download (~40k, 4 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-reserve.pdf)
+- The Official (Historic) Libra Reserve White Paper (V1.0), [PDF Download (~40k, 4 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-reserve.pdf)
 
 > Q: What are the actual assets that will be backing each Libra coin? A: The actual assets will be
 > a collection of low-volatility assets, including bank deposits and government securities in currencies
@@ -135,7 +133,7 @@ the number of Libra in circulation expands or contracts.
 > (Source: Libra White Paper (V1.0))
 
 
-### Digital Identity (Id)
+**Digital Identity (Id)**
 
 _Open Identity (Id) Standard_
 
@@ -145,17 +143,17 @@ _Open Identity (Id) Standard_
 > (Source: Libra White Paper (V1.0))
 
 
+
 ## Historic Libra White Paper, Version 2.0 - April 2020 Update (Nine Month Later)
 
+The Official (Historic) Libra White Paper (V2.0), [PDF Download (~1,300k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-v2.pdf) 
+
 > Note to readers: The first Libra Association white paper was published in June 2019. 
-> This new [Libra] Association white paper, published in April 2020, 
-> is intended to be a stand-alone update regarding the plans of the [Libra] Association. 
+> This new Libra Association white paper, published in April 2020, 
+> is intended to be a stand-alone update regarding the plans of the Libra Association. 
 > Additionally, supporting technical papers also published in June 2019 have been edited or retired.
 >
 > (Source: Libra White Paper (V2.0))
-
-- [The Official Libra White Paper (V2.0)](https://libra.org/en-US/white-paper), [PDF Download (~1,300k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-v2.pdf) 
-
 
 Q: What's changed?
 
@@ -183,19 +181,19 @@ Q: What's changed?
 
 ## Diem White Paper - December 2020 Rename
 
+[The Official Diem White Paper](https://diem.com/en-US/white-paper)
+
 > Note to Readers: On December 1, 2020, the Libra Association was renamed to Diem Association. 
 > This white paper, originally published by the Libra Association in June 2019 and then re-issued as a stand-alone update in April 2020, 
 > replaces previous versions published by the Association.
 >
 > (Source: Diem White Paper)
 
-- [The Official Diem White Paper](https://diem.com/en-US/white-paper)
 
 <!-- todo - still linking to "old" unchaged libra v2.0 pdf 
   [PDF Download (~1,300k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/diem.pdf)
    keep link - why? why not?
 -->
-
 
 
 
@@ -220,7 +218,7 @@ What's News?
 
 Libra V1.0 - Anno June 2019
 
-The Official Libra Roadmap White Paper from Permissioned (Members-Only) to Permissionless (Public) Blockchain, [PDF Download (~50k, 5 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-governance.pdf)
+The Official (Historic) Libra Roadmap White Paper from Permissioned (Members-Only) to Permissionless (Public) Blockchain, [PDF Download (~50k, 5 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-governance.pdf)
 
 > We believe that for the Libra network to achieve its full potential, it needs to be permissionless.
 > As a result, one of the association's directives will be to work with the community to research and implement
@@ -235,9 +233,6 @@ Libra V2.0 Update - Nine Month Later in April 2020
 
 
 
-
-
-
 ## Code
 
 > The Diem Blockchain is open source. We're working to build a trusted and innovative financial network 
@@ -247,12 +242,13 @@ Libra V2.0 Update - Nine Month Later in April 2020
 
 github: [`diemassociation`](https://github.com/diemassociation)  (formerly [`libra`](https://github.com/libra))
 
-- Diem (formerly Libra) Core (Testnet Client), github: (formerly [`libra/libra`](https://github.com/libra/libra))
+- Diem (formerly Libra) Core / Testnet Client, github: (formerly [`libra/libra`](https://github.com/libra/libra))
+
 
 
 ## Developers, Developers, Developers
 
-- Diem Developer Website [`developers.diem.com`](https://developers.diem.com)
+Diem Developer Website HQ - [`developers.diem.com`](https://developers.diem.com)
 
 Community
 
