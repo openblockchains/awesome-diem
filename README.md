@@ -144,7 +144,7 @@ _Open Identity (Id) Standard_
 
 
 
-## Historic Libra White Paper, Version 2.0 - April 2020 Update (Nine Month Later)
+## Historic - Libra Version 2.0 - April 2020 Update (Nine Month Later)
 
 The Official (Historic) Libra White Paper (V2.0), [PDF Download (~1,300k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-v2.pdf) 
 
@@ -179,7 +179,9 @@ Q: What's changed?
 
 
 
-## Diem White Paper - December 2020 Rename
+## Diem - December 2020 Rename
+
+_Libra is Now Diem!_
 
 [The Official Diem White Paper](https://diem.com/en-US/white-paper)
 
