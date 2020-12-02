@@ -240,17 +240,17 @@ says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davi
 
 ## Code
 
+> The Diem Blockchain is open source. We're working to build a trusted and innovative financial network 
+> that empowers people and businesses around the world. 
+>
+> -- [Diem Developers](https://twitter.com/diemdevelopers)
+
 github: [`diemassociation`](https://github.com/diemassociation)  (formerly [`libra`](https://github.com/libra))
 
 - Diem (formerly Libra) Core (Testnet Client), github: (formerly [`libra/libra`](https://github.com/libra/libra))
 
 
 ## Developers, Developers, Developers
-
-> The Diem Blockchain is open source. We're working to build a trusted and innovative financial network 
-> that empowers people and businesses around the world. 
->
-> -- [Diem Developers](https://twitter.com/diemdevelopers)
 
 - Diem Developer Website [`developers.diem.com`](https://developers.diem.com)
 
