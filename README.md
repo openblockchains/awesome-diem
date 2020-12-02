@@ -1,4 +1,4 @@
-A collection about all things Diem (formerly Libra), Move & Zuckerbucks - Let's reinvent money with fast and cheap world-wide transfers; let's bank the 1.7 billion unbanked, ...
+A collection about all things Diem (formerly Libra), Move & Facebook Zuckerbucks - Let's reinvent money with fast and cheap world-wide transfers; let's bank the 1.7 billion unbanked, ...
 
 # Awesome Diem (formerly Libra) and Move
 
@@ -47,12 +47,12 @@ Facebook's Novi (formerly Calibra) wallet is ready as a product, to be released 
 
 
 
-## Libra
+## Diem (formerly Libra)
 
-web: [`libra.org`](https://libra.org)
+web: [`diem.com` (formerly ~~`libra.org`~~](https://www.diem.com)
 
 
-## Historic - Version 1.0 - Anno June 2019
+## Historic - Libra Version 1.0 - Anno June 2019
 
 - The Official Libra White Paper (V1.0), [PDF Download (~600k, 12 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra.pdf) 
 
