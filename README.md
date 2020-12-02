@@ -451,13 +451,15 @@ _Inside Diem Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tru
 ## Developers, Developers, Developers
 
 > The Diem Blockchain is open source. We're working to build a trusted and innovative financial network 
-> that empowers people and businesses around the world. --[Diem Developers](https://twitter.com/diemdevelopers)
+> that empowers people and businesses around the world. 
+>
+> -- [Diem Developers](https://twitter.com/diemdevelopers)
 
 - Diem Developer Website [`developers.diem.com`](https://developers.diem.com)
 
 What's News?
 
-"In even more exciting news, the Diem Developers website is live with a bundle of goodness for developers. 
+"The Diem Developers website is live with a bundle of goodness. 
 Lots of hard work from teams across the 
 Diem Association and members. Featuring a reference wallet, tools for merchants, Move components, and more!",
 says [David Marcus, Facebook, 
