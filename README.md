@@ -128,7 +128,7 @@ _Open Identity (Id) Standard_
 > (Source: Libra White Paper (V1.0))
 
 
-## White Paper, Version 2.0 - April 2020 Update (Nine Month Later)
+## Historic Libra White Paper, Version 2.0 - April 2020 Update (Nine Month Later)
 
 > Note to readers: The first Libra Association white paper was published in June 2019. 
 > This new [Libra] Association white paper, published in April 2020, 
@@ -164,33 +164,60 @@ says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davi
 
 
 
+## Diem White Paper - December 2020 Rename
+
+> Note to Readers: On December 1, 2020, the Libra Association was renamed to Diem Association. 
+> This white paper, originally published by the Libra Association in June 2019 and then re-issued as a stand-alone update in April 2020, 
+> replaces previous versions published by the Association.
+>
+> (Source: Diem White Paper)
+
+- [The Official Diem White Paper](https://diem.com/en-US/white-paper)
+
+<!-- todo - still linking to "old" unchaged libra v2.0 pdf 
+  [PDF Download (~1,300k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/diem.pdf)
+   keep link - why? why not?
+-->
+
+
+
+
 ## Org
 
-Libra Association, Switzerland, Quai de l'Ile 13, Gèneve 1204.
+Diem (formerly Libra) Association, Switzerland, Quai de l'Ile 13, Gèneve 1204.
 
-> The Libra Association is an independent, not-for-profit membership organization, headquartered in Geneva, Switzerland.
+> The Diem (formerly Libra) Association is an independent, not-for-profit membership organization, 
+> headquartered in Geneva, Switzerland.
+
+<!-- break -->
+
+- Diem Assocciation Updates  [`@DiemAssociation`](https://twitter.com/DiemAssociation) 
+
 
 
 
 ## Code
 
-github: [`libra`](https://github.com/libra)
+github: [`diemassociation`](https://github.com/diemassociation)  (formerly [`libra`](https://github.com/libra))
 
-- Libra Core (Testnet Client), github: [`libra/libra`](https://github.com/libra/libra)
+- Diem (formerly Libra) Core (Testnet Client), github: (formerly [`libra/libra`](https://github.com/libra/libra))
+
+
+
 
 ### Blockchain / Protocol
 
-- [The Official Libra Blockchain / Protocol White Paper](https://developers.libra.org/docs/the-libra-blockchain-paper), [PDF Download (~400k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-blockchain.pdf) 
+- [The Official Diem (formerly Libra) Blockchain / Protocol White Paper](https://developers.diem.com/docs/technical-papers/the-diem-blockchain-paper/), [PDF Download (~400k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-blockchain.pdf) 
 
-> **Abstract**: The Libra Blockchain is a decentralized, programmable database designed to support a
+> **Abstract**: The Diem Blockchain is a decentralized, programmable database designed to support a
 > low-volatility cryptocurrency that will have the ability to serve as an efficient medium of exchange for
-> billions of people around the world. We present a proposal for the Libra protocol, which implements
-> the Libra Blockchain and aims to create a financial infrastructure that can foster innovation, lower
-> barriers to entry, and improve access to financial services. To validate the design of the Libra protocol,
-> we have built an open-source prototype implementation - Libra Core - in anticipation of a global
+> billions of people around the world. We present a proposal for the Diem protocol, which implements
+> the Diem Blockchain and aims to create a financial infrastructure that can foster innovation, lower
+> barriers to entry, and improve access to financial services. To validate the design of the Diem protocol,
+> we have built an open-source prototype implementation - Diem Core - in anticipation of a global
 > collaborative effort to advance this new ecosystem.
 >
-> The Libra protocol allows a set of replicas - referred to as validators - from different authorities
+> The Diem protocol allows a set of replicas - referred to as validators - from different authorities
 > to jointly maintain a database of programmable resources. These resources are owned by different
 > user accounts authenticated by public key cryptography and adhere to custom rules specified by the
 > developers of these resources. Validators process transactions and interact with each other to reach
@@ -205,7 +232,7 @@ github: [`libra`](https://github.com/libra)
 
 **Are We Decentralized Yet?**
 
-Historic
+Historic Libra V1.0 - Anno June 2019
 
 - The Official Libra Roadmap White Paper from Members-Only (Permissioned) to Public (Permissionless) Blockchain, [PDF Download (~50k, 5 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-governance.pdf)
 
@@ -213,7 +240,7 @@ Historic
 > As a result, one of the association's directives will be to work with the community to research and implement
 > this transition, which will begin within five years of the public launch of the Libra Blockchain and ecosystem.
 
-V2.0 Update - Nine Month Later in April 2020
+Libra V2.0 Update - Nine Month Later in April 2020
 
 A: "Most notable evolutions are:
 ... replacing the originally planned transition to a permissionless form of [blockchain]
@@ -227,9 +254,9 @@ says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davi
 
 _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Resources / Assets_
 
-- [The Official Move: A Language With Programmable Resources White Paper](https://developers.libra.org/docs/move-paper), [PDF Download (~200k, 26 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-move.pdf) 
+- [The Official Move: A Language With Programmable Resources White Paper](https://developers.diem.com/docs/technical-papers/move-paper/), [PDF Download (~200k, 26 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-move.pdf) 
 
-> **Abstract:** We present Move, a safe and flexible programming language for the Libra Blockchain.
+> **Abstract:** We present Move, a safe and flexible programming language for the Diem Blockchain.
 > Move is an executable bytecode language used to implement custom transactions and contracts.
 > The key feature of Move is the ability to define custom resource types with semantics inspired by linear
 > logic: a resource can never be copied or implicitly discarded, only moved between program storage
@@ -238,7 +265,7 @@ _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Re
 > passed as arguments to procedures, and so on. First-class resources are a very general concept that
 > programmers can use not only to implement safe digital assets but also to write correct business
 > logic for wrapping assets and enforcing access control policies. The safety and expressivity of Move
-> have enabled us to implement significant parts of the Libra protocol in Move, including Libra coin,
+> have enabled us to implement significant parts of the Diem protocol in Move, including Diem coin,
 > transaction processing, and validator management.
 
 
@@ -388,15 +415,15 @@ main() {
 
 ## Consensus with Byzantine Fault Tolerance (BFT)
 
-_Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Truth Machine with State Replication_ 
+_Inside Diem Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Truth Machine with State Replication_ 
 
 
-- [The Official Libra Byzantine Fault Tolerance (BFT): State Machine Replication in the Blockchain White Paper](https://developers.libra.org/docs/state-machine-replication-paper), [PDF Download (~300k, 41 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-consensus.pdf) 
+- [The Official Libra Byzantine Fault Tolerance (BFT): State Machine Replication in the Blockchain White Paper](https://developers.diem.com/docs/technical-papers/state-machine-replication-paper/), [PDF Download (~300k, 41 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-consensus.pdf) 
 
-> **Abstract**: This report presents LibraBFT, a robust and efficient state machine replication system designed for the Libra Blockchain.
-> LibraBFT is based on HotStuff, a recent protocol that leverages several decades of scientific advances in Byzantine fault tolerance (BFT)
-> and achieves the strong scalability and security properties required by internet settings. LibraBFT further refines the HotStuff
-> protocol to introduce explicit liveness mechanisms and provides a concrete latency analysis. To drive the integration with the Libra
+> **Abstract**: This report presents DiemBFT, a robust and efficient state machine replication system designed for the Diem Blockchain.
+> DiemBFT is based on HotStuff, a recent protocol that leverages several decades of scientific advances in Byzantine fault tolerance (BFT)
+> and achieves the strong scalability and security properties required by internet settings. DiemBFT further refines the HotStuff
+> protocol to introduce explicit liveness mechanisms and provides a concrete latency analysis. To drive the integration with the Diem
 > Blockchain, this document provides specifications extracted from a fully-functional simulator. These specifications include state
 > replication interfaces and a communication framework for data transfer and state synchronization among participants. 
 > Finally, this report provides a formal safety proof that induces criteria to detect misbehavior of BFT nodes, 
@@ -415,11 +442,24 @@ _Inside Libra Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tr
 - [HotStuff: Byzantine Fault Tolerance (BFT) Consensus with Linearity and Responsiveness Whitepaper](https://arxiv.org/abs/1803.05069),  [PDF Download (~800k, 10 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/hotstuff.pdf) by Maofan Yin, Dahlia Malkhi, Michael K. Reiter, Guy Golan Gueta, Ittai Abraham -  a leader-based Byzantine fault-tolerant replication protocol for the partially synchronous model. Once network communication becomes synchronous, HotStuff enables a correct leader to drive the protocol to consensus at the pace of actual (vs. maximum) network delay - a property called responsiveness - and with communication complexity that is linear in the number of replicas. To our knowledge, HotStuff is the first partially synchronous BFT replication protocol exhibiting these combined properties. Its simplicity enables it to be further pipelined and simplified into a practical, concise protocol for building large-scale replication services.
 
 
-## Community
 
-- Libra Discussion Forum [`community.libra.org`](https://community.libra.org)
-- Libra Dev / Tech Updates [`@libradev`](https://twitter.com/libradev)
-- Libra Dev / Tech Blog [`developers.libra.org/blog`](https://developers.libra.org/blog/)
+## Developers, Developers, Developers
+
+- Diem Developer Website [`developers.diem.com`](https://developers.diem.com)
+
+What's News?
+
+"In even more exciting news, the Diem Developers website is live with a bundle of goodness for developers. 
+Lots of hard work from teams across the 
+Diem Association and members. Featuring a reference wallet, tools for merchants, Move components, and more!",
+says [David Marcus, Facebook, 
+Head of Novi (formerly Head of Calibra)](https://twitter.com/davidmarcus/status/1333862686891802624), December 1, 2020
+
+### Community
+
+- Diem Discussion Forum [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~~) 
+- Diem Dev / Tech Updates  [`@???`](https://twitter.com/???)   (formerly ~~`@libradev`~~)
+- Diem Dev / Tech Blog [`developers.diem.com/blog`](https://developers.diem.com/blog/)  (formerly ~~`developers.libra.org/blog`~~)
 
 
 
@@ -453,7 +493,7 @@ Head of Novi (formerly Head of Calibra), May 26, 2020 -- _With Novi, sending mon
 Q: Why the name change?  A: "People were confusing Libra [the "pseudo-independent" payment network - "blockchain"] 
 and Calibra [the official Facebook Libra wallet] all the time", says David Marcus.
 
-**Novi** (web: [`novi.com`](https://www.novi.com)) - Facebook's official wallet for Libra from Facebook Financial (F2) that also
+**Novi** (web: [`novi.com`](https://www.novi.com), twitter: [`@novi`](https://twitter.com/novi)) - Facebook's official wallet for Libra from Facebook Financial (F2) that also
 incl. Facebook Pay, WhatsApp Pay, among all things payments.
 
 - [Novis's Blockchain and Cryptoeconomics Team Page @ Facebook Research](https://research.fb.com/category/blockchain-and-cryptoeconomics/) includes publications / papers such as:
@@ -522,12 +562,12 @@ by Blockchain Lab of Beijing Normal University and White Matrix Corporation
 
 ### More
 
-- [#libra](https://github.com/topics/libra) Topic @ GitHub
+- [#diem](https://github.com/topics/diem), [#libra](https://github.com/topics/libra) Topics @ GitHub
 
 
 <!-- break -->
 
-- [Help & Discussion in Testnet Channel / Category](https://community.libra.org/c/testnet) @ Libra Discussion Forum
+- [Help & Discussion in Testnet Channel / Category](https://community.diem.com/c/testnet) @ Diem Discussion Forum
 - [Connecting to Libra TestNet on Windows with the Windows Subsystem for Linux (WSL)](https://medium.com/coinmonks/connecting-to-libra-testnet-on-windows-with-wsl-45bdfd23150a) by Ibraheem Kolawole Bello, June 19th, 2019
 
 
@@ -560,8 +600,8 @@ What's upcoming? See the [Libra Core Roadmap](https://github.com/orgs/libra/proj
 
 ## Reference
 
-- [Libra (cryptocurrency) @ Wikipedia](https://en.wikipedia.org/wiki/Libra_(cryptocurrency))
-  - [Libra (cryptocurrency) Talk / Discussion @ Wikipedia](https://en.wikipedia.org/wiki/Talk:Libra_(cryptocurrency))
+- [Diem (cryptocurrency) @ Wikipedia](https://en.wikipedia.org/wiki/Diem_(digital_currency))
+  - [Diem (cryptocurrency) Talk / Discussion @ Wikipedia](https://en.wikipedia.org/wiki/Talk:Diem_(digital_currency))
 
 
 ## Trivia & Fun Facts
