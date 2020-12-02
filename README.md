@@ -621,11 +621,6 @@ Q: Why is it called Libra? A: The Libra name was inspired by
 (3) Libra phonetically sounds like libre, which is French for free or freedom.
 The Libra name is a combination of money, justice, and freedom.
 
-
-Did you know? David Marcus is the public face of Facebook's Libra - but Morgan Beller started the cryptocurrency effort in 2017, 
-before Marcus was even at Facebook. (Source: [Meet Morgan Beller, the 26-year-old woman behind Facebook's plan to make its own currency](https://www.cnbc.com/2019/07/20/facebook-libra-partly-created-by-female-engineer-morgan-beller.html), by Salvador Rodriguez (CNBC), July 20, 2019) 
-
-
 Q: Why is it called Diem? A: Diem stems from the famous latin phrase 'Carpe Diem' translating to
 'Enjoy the present, make the most of today', a common mistranslation is 'Seize the Day' (according to [Carpe diem @ Wiktionary](https://en.wiktionary.org/wiki/carpe_diem)). 
 
@@ -636,6 +631,9 @@ Q: Why is it called Diem? A: Diem stems from the famous latin phrase 'Carpe Diem
 >
 > -- [Carpe diem @ Wikipedia](https://en.wikipedia.org/wiki/Carpe_diem)
 
+
+Did you know? David Marcus is the public face of Facebook's Libra - but Morgan Beller started the cryptocurrency effort in 2017, 
+before Marcus was even at Facebook. (Source: [Meet Morgan Beller, the 26-year-old woman behind Facebook's plan to make its own currency](https://www.cnbc.com/2019/07/20/facebook-libra-partly-created-by-female-engineer-morgan-beller.html), by Salvador Rodriguez (CNBC), July 20, 2019) 
 
 
 ## Articles
