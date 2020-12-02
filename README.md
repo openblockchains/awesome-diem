@@ -370,7 +370,7 @@ From the Diem Forum post ["Libra is now Diem"](https://community.diem.com/t/anno
 
 _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Resources / Assets_
 
-- [The Official Move: A Language With Programmable Resources White Paper](https://developers.diem.com/docs/technical-papers/move-paper/), [PDF Download (~200k, 26 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-move.pdf) 
+[The Official Move: A Language With Programmable Resources White Paper](https://developers.diem.com/docs/technical-papers/move-paper/), [PDF Download (~200k, 26 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-move.pdf) 
 
 > **Abstract:** We present Move, a safe and flexible programming language for the Diem Blockchain.
 > Move is an executable bytecode language used to implement custom transactions and contracts.
@@ -384,7 +384,9 @@ _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Re
 > have enabled us to implement significant parts of the Diem protocol in Move, including Diem coin,
 > transaction processing, and validator management.
 
-Planned to be a statically-typed programming language derived from Rust, compiled to bytecode.
+
+Q: What's Move?
+A: A statically-typed programming language derived from Rust, compiled to bytecode.
 
 Update December 2020 - Official Move Documention Goes Live
 
@@ -398,6 +400,7 @@ Update December 2020 - Official Move Documention Goes Live
 > semantics as an explicit representation of digital assets, such as currency.
 >
 > [...]
+>
 > Move has all of the syntax and semantics you would expect from a first-class programming language. 
 > However, there is an entire architecture dedicated to creating, using, and executing code based on Move. 
 > The diagram below shows the architecture of Move as it pertains to the Diem Payment Network, 
@@ -405,7 +408,7 @@ Update December 2020 - Official Move Documention Goes Live
 >
 > ![](i/move-architecture.png)
 >
-> (Source: [Move Introduction](https://developers.diem.com/docs/move/overview))
+> (Source: [Move Introduction @ Diem Developers](https://developers.diem.com/docs/move/overview))
 
 
 
