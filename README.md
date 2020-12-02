@@ -191,7 +191,7 @@ Diem (formerly Libra) Association, Switzerland, Quai de l'Ile 13, Gèneve 1204.
 
 <!-- break -->
 
-- Diem Assoccation Org Page [`diem.com/association`](https://www.diem.com/en-us/association)
+- Diem Assocciation Org Page - [`diem.com/association`](https://www.diem.com/en-us/association)
 - Diem Assocciation Updates - twitter: [`@DiemAssociation`](https://twitter.com/DiemAssociation) 
 
 What's News?
@@ -459,9 +459,8 @@ _Inside Diem Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tru
 
 What's News?
 
-"The Diem Developers website is live with a bundle of goodness. 
-Lots of hard work from teams across the 
-Diem Association and members. Featuring a reference wallet, tools for merchants, Move components, and more!",
+"The Diem Developers website is live with a bundle of goodness.
+Featuring a reference wallet, tools for merchants, Move components, and more!",
 says [David Marcus, Facebook, 
 Head of Novi (formerly Head of Calibra)](https://twitter.com/davidmarcus/status/1333862686891802624), December 1, 2020
 
