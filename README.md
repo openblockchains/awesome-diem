@@ -44,6 +44,8 @@ Appendix: 2010–2013: The rise and fall of Facebook Credits_
 by David Gerard, November 2020 -- _There will only be a US dollar token running on the network — no EUR or GBP, no synthetic Libra currency;
 Facebook's Novi (formerly Calibra) wallet is ready as a product, to be released in the US and some Latin American countries - "high-volume remittance corridors"; no date as yet, though Facebook hopes for January 2021_
 
+[**[Libra is now Diem!] Announcing the name Diem. Executive leadership in place in preparation for launch.**](https://www.diem.com/en-us/updates/diem-association/), Diem (formerly Libra Association) Press Release, December 1, 2020 -- _The Libra Association announces 
+the adoption of a new name and the recruitment of key executives, reinforcing its organizational independence [from Facebook]._
 
 
 
