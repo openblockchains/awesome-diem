@@ -197,6 +197,15 @@ _Libra is Now Diem!_
    keep link - why? why not?
 -->
 
+Official Learn Diem Frequently Asked Questions (FAQs) and Answers:
+
+> Q: What is the Diem payment system?
+>
+> The Diem payment system incorporates three aspects that work together to create a financial system: 
+> 1) A secure, scalable, and reliable blockchain as the backbone of the payment system; 
+> 2) Diem Coins that are backed by a reserve of assets made up of cash or cash equivalents and very short-term government securities; and 
+> 3) Governance by the Diem Association and its subsidiary Diem Networks, tasked with developing and operating the payment system.
+
 
 
 ## Org
@@ -214,6 +223,15 @@ Diem (formerly Libra) Association, Switzerland, Quai de l'Ile 13, Gèneve 1204.
 What's News?
 
 - On December 1, 2020, the Libra Association was renamed to Diem Association. 
+
+Official Learn Diem Frequently Asked Questions (FAQs) and Answers:
+
+> Q: What is the purpose of the Diem Association?
+>
+> The Association's purpose is to govern
+> the Diem network and Diem Reserve; oversee the operation and evolution of the Diem payment system; 
+> help [Facebook] building services on top of the Diem Blockchain in a safe and compliant manner; 
+> and establish grant-making for banking the 1.7 billion unbanked.
 
 
 **Are We Decentralized Yet?**
