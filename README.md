@@ -1,6 +1,6 @@
-A collection about all things Libra, Move & ZuckerBucks - Let's reinvent money with fast and cheap world-wide transfers; let's bank the 1.7 billion unbanked, ...
+A collection about all things Diem (formerly Libra), Move & Zuckerbucks - Let's reinvent money with fast and cheap world-wide transfers; let's bank the 1.7 billion unbanked, ...
 
-# Awesome Libra (and Move)
+# Awesome Diem (formerly Libra) and Move
 
 _Moving money around the world should be as easy and cheap as sending a text message (or a photo)._
 
