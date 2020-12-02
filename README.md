@@ -5,7 +5,7 @@ A collection about all things Diem (formerly Libra), Move & Facebook Zuckerbucks
 _Moving money around the world should be as easy and cheap as sending a text message (or a photo)._
 
 
-## Best Book of the Year
+## Best Diem (formerly Libra) Book of the Year 2020 Award Goes To...
 
 
 <!-- todo/fix: check how to make image float left
