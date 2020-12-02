@@ -159,25 +159,25 @@ _Open Identity (Id) Standard_
 
 Q: What's changed?
 
-A: "Most notable evolutions are:
-
-a) the creation of single currency stablecoins, 
-e.g. ≋USD, ≋EUR, ≋GBP, in addition to Libra Coin (≋LBR), 
-which will now be a Move blockchain contract "stitching" together 
-fixed nominal weights of underlying stablecoins. 
-
-b) a comprehensive network-level system around anti-money laundering (AML), 
-combatting the Financing of Terrorism (CFT), 
-and sanctions enforcement.
-
-c) replacing the originally planned transition to a permissionless form of [blockchain]
-governance to a market-driven open and competitive network [managed by Facebook].
-
-d) building stronger protections into the design of the Libra Reserve 
-to protect consumers, even in the most adverse [bank run can-I-get-my-money-back] 
-situations.",
-
-says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
+> A: "Most notable evolutions are:
+>
+> a) the creation of single currency stablecoins, 
+> e.g. ≋USD, ≋EUR, ≋GBP, in addition to Libra Coin (≋LBR), 
+> which will now be a Move blockchain contract "stitching" together 
+> fixed nominal weights of underlying stablecoins. 
+>
+> b) a comprehensive network-level system around anti-money laundering (AML), 
+> combatting the Financing of Terrorism (CFT), 
+> and sanctions enforcement.
+>
+> c) replacing the originally planned transition to a permissionless [public] form of [blockchain]
+> governance to a market-driven open and competitive [private invite-only] network [managed by Facebook].
+>
+> d) building stronger protections into the design of the Libra Reserve 
+> to protect consumers, even in the most adverse [bank run can-I-get-my-money-back] 
+> situations.",
+>
+> says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
 
 
 
@@ -218,9 +218,9 @@ What's News?
 
 **Are We Decentralized Yet?**
 
-Historic Libra V1.0 - Anno June 2019
+Libra V1.0 - Anno June 2019
 
-- The Official Libra Roadmap White Paper from Members-Only (Permissioned) to Public (Permissionless) Blockchain, [PDF Download (~50k, 5 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-governance.pdf)
+The Official Libra Roadmap White Paper from Permissioned (Members-Only) to Permissionless (Public) Blockchain, [PDF Download (~50k, 5 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-governance.pdf)
 
 > We believe that for the Libra network to achieve its full potential, it needs to be permissionless.
 > As a result, one of the association's directives will be to work with the community to research and implement
@@ -228,10 +228,10 @@ Historic Libra V1.0 - Anno June 2019
 
 Libra V2.0 Update - Nine Month Later in April 2020
 
-A: "Most notable evolutions are:
-... replacing the originally planned transition to a permissionless form of [blockchain]
-governance to a market-driven open and competitive network [managed by Facebook].",
-says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
+> "Most notable evolutions are:
+> ... replacing the originally planned transition to a permissionless [public] form of [blockchain]
+> governance to a market-driven open and competitive [private invite-only] network [managed by Facebook].",
+> says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
 
 
 
@@ -256,39 +256,38 @@ github: [`diemassociation`](https://github.com/diemassociation)  (formerly [`lib
 
 Community
 
-- Diem Discussion Forum [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~) 
-- Diem Dev / Tech Updates  [`@diemdevelopers`](https://twitter.com/diemdevelopers)   (formerly ~~`@libradev`~~)
-- Diem Dev / Tech Blog [`developers.diem.com/blog`](https://developers.diem.com/blog/)  (formerly ~~`developers.libra.org/blog`~~)
+- Diem Discussion Forum - [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~) 
+- Diem Dev / Tech Updates -  twitter: [`@diemdevelopers`](https://twitter.com/diemdevelopers)   (formerly ~~`@libradev`~~)
+- Diem Dev / Tech Blog - [`developers.diem.com/blog`](https://developers.diem.com/blog/)  (formerly ~~`developers.libra.org/blog`~~)
 
 What's News?
 
-"The Diem Developers website is live with a bundle of goodness.
-Featuring a reference wallet, tools for merchants, Move components, and more!",
-says [David Marcus, Facebook, 
-Head of Novi (formerly Head of Calibra)](https://twitter.com/davidmarcus/status/1333862686891802624), December 1, 2020
+> "The Diem Developers website is live with a bundle of goodness.
+> Featuring a reference wallet, tools for merchants, Move components, and more!",
+> says [David Marcus, Facebook, 
+> Head of Novi (formerly Head of Calibra)](https://twitter.com/davidmarcus/status/1333862686891802624), December 1, 2020
 
 From the Diem Forum post ["Libra is now Diem"](https://community.diem.com/t/announcement-libra-is-now-diem/3282): 
 
-**New Developer Site** -
-We've restructured our developer website, written in-depth tutorials, and added tons of new documentation. 
-Check out the new Diem Documentation site [`developers.diem.com`](http://developers.diem.com/)
-
-**Reference Projects** - 
-We've built two new interactive projects that are now ready to test:
-
-1) Reference Wallet ([`developers.diem.com/reference-wallet`](https://developers.diem.com/reference-wallet/)) - 
-Set up an account, transfer funds in and out of the wallet, and send or request coins - all running fully on the testnet.
-
-2) Reference Merchant ([`developers.diem.com/docs/merchant/try-demo-merchant`](https://developers.diem.com/docs/merchant/try-demo-merchant/)) - 
-Experience Diem in action with a demo storefront and purchasing flows, including integration with the reference wallet.
-
-**Move Documentation** -
-We built our blockchain with Move, a new Rust-based language with resource scarcity and improved asset protections. 
-And while it was created for Libra/Diem, we always hoped Move would be a resource for all blockchain developers, regardless of the project.
-
-We're excited to announce the long-awaited official Move documentation, publicly available for the first time [`developers.diem.com/docs/move/overview`](https://developers.diem.com/docs/move/overview/).
-
-
+> **New Developer Site** -
+> We've restructured our developer website, written in-depth tutorials, and added tons of new documentation. 
+> Check out the new Diem Documentation site [`developers.diem.com`](http://developers.diem.com/)
+>
+> **Reference Projects** - 
+> We've built two new interactive projects that are now ready to test:
+>
+> 1) Reference Wallet ([`developers.diem.com/reference-wallet`](https://developers.diem.com/reference-wallet/)) - 
+> Set up an account, transfer funds in and out of the wallet, and send or request coins - all running fully on the testnet.
+>
+> 2) Reference Merchant ([`developers.diem.com/docs/merchant/try-demo-merchant`](https://developers.diem.com/docs/merchant/try-demo-merchant/)) - 
+> Experience Diem in action with a demo storefront and purchasing flows, including integration with the reference wallet.
+>
+> **Move Documentation** -
+> We built our blockchain with Move, a new Rust-based language with resource scarcity and improved asset protections. 
+> And while it was created for Libra/Diem, we always hoped Move would be a resource for all blockchain developers, regardless of the project.
+>
+> We're excited to announce the long-awaited official Move documentation, publicly available for the first time
+> [`developers.diem.com/docs/move/overview`](https://developers.diem.com/docs/move/overview/).
 
 
 
