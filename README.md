@@ -254,6 +254,12 @@ github: [`diemassociation`](https://github.com/diemassociation)  (formerly [`lib
 
 - Diem Developer Website [`developers.diem.com`](https://developers.diem.com)
 
+Community
+
+- Diem Discussion Forum [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~) 
+- Diem Dev / Tech Updates  [`@diemdevelopers`](https://twitter.com/diemdevelopers)   (formerly ~~`@libradev`~~)
+- Diem Dev / Tech Blog [`developers.diem.com/blog`](https://developers.diem.com/blog/)  (formerly ~~`developers.libra.org/blog`~~)
+
 What's News?
 
 "The Diem Developers website is live with a bundle of goodness.
@@ -261,11 +267,28 @@ Featuring a reference wallet, tools for merchants, Move components, and more!",
 says [David Marcus, Facebook, 
 Head of Novi (formerly Head of Calibra)](https://twitter.com/davidmarcus/status/1333862686891802624), December 1, 2020
 
-### Community
+From the Diem Forum post ["Libra is now Diem"](https://community.diem.com/t/announcement-libra-is-now-diem/3282): 
 
-- Diem Discussion Forum [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~) 
-- Diem Dev / Tech Updates  [`@diemdevelopers`](https://twitter.com/diemdevelopers)   (formerly ~~`@libradev`~~)
-- Diem Dev / Tech Blog [`developers.diem.com/blog`](https://developers.diem.com/blog/)  (formerly ~~`developers.libra.org/blog`~~)
+**New Developer Site** -
+We've restructured our developer website, written in-depth tutorials, and added tons of new documentation. 
+Check out the new Diem Documentation site [`developers.diem.com`](http://developers.diem.com/)
+
+**Reference Projects** - 
+We've built two new interactive projects that are now ready to test:
+
+1) Reference Wallet ([`developers.diem.com/reference-wallet`](https://developers.diem.com/reference-wallet/)) - 
+Set up an account, transfer funds in and out of the wallet, and send or request coins - all running fully on the testnet.
+
+2) Reference Merchant ([`developers.diem.com/docs/merchant/try-demo-merchant`](https://developers.diem.com/docs/merchant/try-demo-merchant/)) - 
+Experience Diem in action with a demo storefront and purchasing flows, including integration with the reference wallet.
+
+**Move Documentation** -
+We built our blockchain with Move, a new Rust-based language with resource scarcity and improved asset protections. 
+And while it was created for Libra/Diem, we always hoped Move would be a resource for all blockchain developers, regardless of the project.
+
+We're excited to announce the long-awaited official Move documentation, publicly available for the first time [`developers.diem.com/docs/move/overview`](https://developers.diem.com/docs/move/overview/).
+
+
 
 
 
