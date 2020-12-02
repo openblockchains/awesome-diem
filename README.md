@@ -53,6 +53,23 @@ Facebook's Novi (formerly Calibra) wallet is ready as a product, to be released 
 
 web: [`diem.com`](https://www.diem.com) (formerly ~~`libra.org`~~)
 
+Q: Why is it called Libra? A: The Libra name was inspired by 
+(1) Libra the [Roman unit of weight measure](https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement), which was eventually used to mint coins. 
+(2) Libra the astrological symbol is the balance of justice, and
+(3) Libra phonetically sounds like libre, which is French for free or freedom.
+The Libra name is a combination of money, justice, and freedom.
+
+Q: Why is it called Diem? A: Diem stems from the famous latin phrase 'Carpe Diem' translating to
+'Enjoy the present, make the most of today', a common mistranslation is 'Seize the Day' (according to [Carpe diem @ Wiktionary](https://en.wiktionary.org/wiki/carpe_diem)). 
+
+> Carpe is the second-person singular present active imperative of carpō "pick or pluck" used by Horace 
+> to mean "enjoy, seize, use, make use of". Diem is the accusative of dies "day". 
+> A more literal translation of carpe diem would thus be "pluck the day as it is ripe" - that is, enjoy the moment. 
+> It has been argued by various authors that this interpretation is closer to Horace's original meaning
+>
+> -- [Carpe diem @ Wikipedia](https://en.wikipedia.org/wiki/Carpe_diem)
+
+
 
 ## Historic - Libra Version 1.0 - Anno June 2019
 
@@ -199,6 +216,26 @@ What's News?
 - On December 1, 2020, the Libra Association was renamed to Diem Association. 
 
 
+**Are We Decentralized Yet?**
+
+Historic Libra V1.0 - Anno June 2019
+
+- The Official Libra Roadmap White Paper from Members-Only (Permissioned) to Public (Permissionless) Blockchain, [PDF Download (~50k, 5 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-governance.pdf)
+
+> We believe that for the Libra network to achieve its full potential, it needs to be permissionless.
+> As a result, one of the association's directives will be to work with the community to research and implement
+> this transition, which will begin within five years of the public launch of the Libra Blockchain and ecosystem.
+
+Libra V2.0 Update - Nine Month Later in April 2020
+
+A: "Most notable evolutions are:
+... replacing the originally planned transition to a permissionless form of [blockchain]
+governance to a market-driven open and competitive network [managed by Facebook].",
+says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
+
+
+
+
 
 
 ## Code
@@ -208,9 +245,31 @@ github: [`diemassociation`](https://github.com/diemassociation)  (formerly [`lib
 - Diem (formerly Libra) Core (Testnet Client), github: (formerly [`libra/libra`](https://github.com/libra/libra))
 
 
+## Developers, Developers, Developers
+
+> The Diem Blockchain is open source. We're working to build a trusted and innovative financial network 
+> that empowers people and businesses around the world. 
+>
+> -- [Diem Developers](https://twitter.com/diemdevelopers)
+
+- Diem Developer Website [`developers.diem.com`](https://developers.diem.com)
+
+What's News?
+
+"The Diem Developers website is live with a bundle of goodness.
+Featuring a reference wallet, tools for merchants, Move components, and more!",
+says [David Marcus, Facebook, 
+Head of Novi (formerly Head of Calibra)](https://twitter.com/davidmarcus/status/1333862686891802624), December 1, 2020
+
+### Community
+
+- Diem Discussion Forum [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~) 
+- Diem Dev / Tech Updates  [`@diemdevelopers`](https://twitter.com/diemdevelopers)   (formerly ~~`@libradev`~~)
+- Diem Dev / Tech Blog [`developers.diem.com/blog`](https://developers.diem.com/blog/)  (formerly ~~`developers.libra.org/blog`~~)
 
 
-### Blockchain / Protocol
+
+## Blockchain / Protocol
 
 - [The Official Diem (formerly Libra) Blockchain / Protocol White Paper](https://developers.diem.com/docs/technical-papers/the-diem-blockchain-paper/), [PDF Download (~400k, 29 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-blockchain.pdf) 
 
@@ -233,25 +292,6 @@ github: [`diemassociation`](https://github.com/diemassociation)  (formerly [`lib
 > membership. These core mechanisms enable the creation of a unique governance mechanism that
 > builds on the stability and reputation of existing institutions in the early days but transitions to a
 > fully open system over time.
-
-
-**Are We Decentralized Yet?**
-
-Historic Libra V1.0 - Anno June 2019
-
-- The Official Libra Roadmap White Paper from Members-Only (Permissioned) to Public (Permissionless) Blockchain, [PDF Download (~50k, 5 Pages)](https://github.com/openblockchains/blockchain-whitepapers/raw/master/libra-governance.pdf)
-
-> We believe that for the Libra network to achieve its full potential, it needs to be permissionless.
-> As a result, one of the association's directives will be to work with the community to research and implement
-> this transition, which will begin within five years of the public launch of the Libra Blockchain and ecosystem.
-
-Libra V2.0 Update - Nine Month Later in April 2020
-
-A: "Most notable evolutions are:
-... replacing the originally planned transition to a permissionless form of [blockchain]
-governance to a market-driven open and competitive network [managed by Facebook].",
-says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davidmarcus/status/1250786163964559360)
-
 
 
 
@@ -448,29 +488,6 @@ _Inside Diem Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tru
 
 
 
-## Developers, Developers, Developers
-
-> The Diem Blockchain is open source. We're working to build a trusted and innovative financial network 
-> that empowers people and businesses around the world. 
->
-> -- [Diem Developers](https://twitter.com/diemdevelopers)
-
-- Diem Developer Website [`developers.diem.com`](https://developers.diem.com)
-
-What's News?
-
-"The Diem Developers website is live with a bundle of goodness.
-Featuring a reference wallet, tools for merchants, Move components, and more!",
-says [David Marcus, Facebook, 
-Head of Novi (formerly Head of Calibra)](https://twitter.com/davidmarcus/status/1333862686891802624), December 1, 2020
-
-### Community
-
-- Diem Discussion Forum [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~) 
-- Diem Dev / Tech Updates  [`@diemdevelopers`](https://twitter.com/diemdevelopers)   (formerly ~~`@libradev`~~)
-- Diem Dev / Tech Blog [`developers.diem.com/blog`](https://developers.diem.com/blog/)  (formerly ~~`developers.libra.org/blog`~~)
-
-
 
 ## Testnet
 
@@ -613,24 +630,8 @@ What's upcoming? See the [Libra Core Roadmap](https://github.com/orgs/libra/proj
   - [Diem (cryptocurrency) Talk / Discussion @ Wikipedia](https://en.wikipedia.org/wiki/Talk:Diem_(digital_currency))
 
 
+
 ## Trivia & Fun Facts
-
-Q: Why is it called Libra? A: The Libra name was inspired by 
-(1) Libra the [Roman unit of weight measure](https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement), which was eventually used to mint coins. 
-(2) Libra the astrological symbol is the balance of justice, and
-(3) Libra phonetically sounds like libre, which is French for free or freedom.
-The Libra name is a combination of money, justice, and freedom.
-
-Q: Why is it called Diem? A: Diem stems from the famous latin phrase 'Carpe Diem' translating to
-'Enjoy the present, make the most of today', a common mistranslation is 'Seize the Day' (according to [Carpe diem @ Wiktionary](https://en.wiktionary.org/wiki/carpe_diem)). 
-
-> Carpe is the second-person singular present active imperative of carpō "pick or pluck" used by Horace 
-> to mean "enjoy, seize, use, make use of". Diem is the accusative of dies "day". 
-> A more literal translation of carpe diem would thus be "pluck the day as it is ripe" - that is, enjoy the moment. 
-> It has been argued by various authors that this interpretation is closer to Horace's original meaning
->
-> -- [Carpe diem @ Wikipedia](https://en.wikipedia.org/wiki/Carpe_diem)
-
 
 Did you know? David Marcus is the public face of Facebook's Libra - but Morgan Beller started the cryptocurrency effort in 2017, 
 before Marcus was even at Facebook. (Source: [Meet Morgan Beller, the 26-year-old woman behind Facebook's plan to make its own currency](https://www.cnbc.com/2019/07/20/facebook-libra-partly-created-by-female-engineer-morgan-beller.html), by Salvador Rodriguez (CNBC), July 20, 2019) 
