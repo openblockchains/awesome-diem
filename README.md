@@ -192,7 +192,7 @@ Diem (formerly Libra) Association, Switzerland, Quai de l'Ile 13, Gèneve 1204.
 <!-- break -->
 
 - Diem Assoccation Org Page [`diem.com/association`](https://www.diem.com/en-us/association)
-- Diem Assocciation Updates  [`@DiemAssociation`](https://twitter.com/DiemAssociation) 
+- Diem Assocciation Updates - twitter: [`@DiemAssociation`](https://twitter.com/DiemAssociation) 
 
 What's News?
 
@@ -467,7 +467,7 @@ Head of Novi (formerly Head of Calibra)](https://twitter.com/davidmarcus/status/
 
 ### Community
 
-- Diem Discussion Forum [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~~) 
+- Diem Discussion Forum [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~) 
 - Diem Dev / Tech Updates  [`@diemdevelopers`](https://twitter.com/diemdevelopers)   (formerly ~~`@libradev`~~)
 - Diem Dev / Tech Blog [`developers.diem.com/blog`](https://developers.diem.com/blog/)  (formerly ~~`developers.libra.org/blog`~~)
 
