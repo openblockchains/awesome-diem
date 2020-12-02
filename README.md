@@ -626,6 +626,16 @@ Did you know? David Marcus is the public face of Facebook's Libra - but Morgan B
 before Marcus was even at Facebook. (Source: [Meet Morgan Beller, the 26-year-old woman behind Facebook's plan to make its own currency](https://www.cnbc.com/2019/07/20/facebook-libra-partly-created-by-female-engineer-morgan-beller.html), by Salvador Rodriguez (CNBC), July 20, 2019) 
 
 
+Q: Why is it called Diem? A: Diem stems from the famous latin phrase 'Carpe Diem' translating to 'Seize the Day' or 'Enjoy the Moment'.
+
+> Carpe is the second-person singular present active imperative of carpō "pick or pluck" used by Horace 
+> to mean "enjoy, seize, use, make use of". Diem is the accusative of dies "day". 
+> A more literal translation of carpe diem would thus be "pluck the day as it is ripe" - that is, enjoy the moment. 
+> It has been argued by various authors that this interpretation is closer to Horace's original meaning
+>
+> -- [Carpe diem @ Wikipedia](https://en.wikipedia.org/wiki/Carpe_diem)
+
+
 
 ## Articles
 
