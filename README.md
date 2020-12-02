@@ -186,11 +186,12 @@ says [David Marcus (Head of Novi @ Facebook Financial)](https://twitter.com/davi
 
 Diem (formerly Libra) Association, Switzerland, Quai de l'Ile 13, Gèneve 1204.
 
-> The Diem (formerly Libra) Association is an independent, not-for-profit membership organization, 
+> The Diem (formerly Libra) Association is a [self-proclaimed] independent membership organization [setup, financed and managed by Facebook], 
 > headquartered in Geneva, Switzerland.
 
 <!-- break -->
 
+- Diem Assoccation Org Page [`diem.com/association`](https://www.diem.com/en-us/association)
 - Diem Assocciation Updates  [`@DiemAssociation`](https://twitter.com/DiemAssociation) 
 
 What's News?
