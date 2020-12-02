@@ -205,7 +205,40 @@ Official Learn Diem Frequently Asked Questions (FAQs) and Answers:
 > 1) A secure, scalable, and reliable blockchain as the backbone of the payment system; 
 > 2) Diem Coins that are backed by a reserve of assets made up of cash or cash equivalents and very short-term government securities; and 
 > 3) Governance by the Diem Association and its subsidiary Diem Networks, tasked with developing and operating the payment system.
-
+>
+> Q: What are Diem Coins?
+>
+> Diem Coins are single-currency stablecoins (e.g., ≋USD, ≋EUR, and ≋GBP) 
+> and a multi-currency coin (≋XDM) supported on the Diem payment system.
+>
+> Q: What is a Diem single-currency stablecoin?
+>
+> A: Diem single-currency stablecoin (e.g., ≋USD, ≋EUR, and ≋GBP) 
+> is a (private) crypto currency that has a 1:1 face value to a (public) national currency (USD, EUR, and GBP)). 
+> Diem single-currency stablecoins will be fully backed by the Diem Reserve, 
+> consisting of cash or cash equivalents and very short-term government securities 
+> denominated in the same national currency (USD, EUR, and GBP) as the stablecoins.
+>
+> Q: What is a Diem multi-currency coin (≋XDM)?
+>
+> A: ≋XDM is a (private) world crypto currency composed of the major single-currency stablecoins (e.g., ≋USD, ≋EUR, and ≋GBP)
+> available on the Diem network for use in world-wide cross-border settlements or 
+> as an alternative (private) currency replacing the unstable, high-inflation (public) national currency 
+> leading to ("Diem-ization" instead of "Dollar-ization") 
+> for people and businesses in almost all countries 
+> that will never have a single-currency stablecoin on the Diem network.
+>
+> Q: How can I get Diem Coins?
+>
+> A: We expect most users will be able to buy Diem Coins through exchanges that list Diem Coins 
+> or through the applications that will be built on the Diem Blockchain, 
+> including digital wallets and other financial products and services.
+>
+> Q: How can I use Diem Coins?
+>
+> A: Diem Coin holders can use Diem Coins for everyday use to pay for goods and services 
+> (if big if accepted by the seller), 
+> send Diem Coins to other users, or cash out the Diem Coins back into the local (public) national currency.
 
 
 ## Org
