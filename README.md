@@ -193,6 +193,10 @@ Diem (formerly Libra) Association, Switzerland, Quai de l'Ile 13, Gèneve 1204.
 
 - Diem Assocciation Updates  [`@DiemAssociation`](https://twitter.com/DiemAssociation) 
 
+What's News?
+
+- On December 1, 2020, the Libra Association was renamed to Diem Association. 
+
 
 
 
@@ -445,6 +449,9 @@ _Inside Diem Byzantine Fault Tolerance (BFT) and the HotStuff Protocol - The Tru
 
 ## Developers, Developers, Developers
 
+> The Diem Blockchain is open source. We're working to build a trusted and innovative financial network 
+> that empowers people and businesses around the world. --[Diem Developers](https://twitter.com/diemdevelopers)
+
 - Diem Developer Website [`developers.diem.com`](https://developers.diem.com)
 
 What's News?
@@ -458,7 +465,7 @@ Head of Novi (formerly Head of Calibra)](https://twitter.com/davidmarcus/status/
 ### Community
 
 - Diem Discussion Forum [`community.diem.com`](https://community.diem.com)  (formerly ~~`community.libra.org`~~~) 
-- Diem Dev / Tech Updates  [`@???`](https://twitter.com/???)   (formerly ~~`@libradev`~~)
+- Diem Dev / Tech Updates  [`@diemdevelopers`](https://twitter.com/diemdevelopers)   (formerly ~~`@libradev`~~)
 - Diem Dev / Tech Blog [`developers.diem.com/blog`](https://developers.diem.com/blog/)  (formerly ~~`developers.libra.org/blog`~~)
 
 
