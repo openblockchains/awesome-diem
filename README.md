@@ -49,7 +49,7 @@ Facebook's Novi (formerly Calibra) wallet is ready as a product, to be released 
 
 ## Diem (formerly Libra)
 
-web: [`diem.com` (formerly ~~`libra.org`~~](https://www.diem.com)
+web: [`diem.com` (formerly ~~`libra.org`~~)](https://www.diem.com)
 
 
 ## Historic - Libra Version 1.0 - Anno June 2019
