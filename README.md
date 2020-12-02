@@ -384,8 +384,32 @@ _The (Secure) Contract-Oriented Programming Language for Digital (Blockchain) Re
 > have enabled us to implement significant parts of the Diem protocol in Move, including Diem coin,
 > transaction processing, and validator management.
 
-
 Planned to be a statically-typed programming language derived from Rust, compiled to bytecode.
+
+Update December 2020 - Official Move Documention Goes Live
+
+> Welcome to Move, a next generation language for secure, sandboxed, and formally verified programming.
+> Its first use case is for the Diem blockchain, where Move provides the foundation for its implementation.
+> Move allows developers to write programs that flexibly manage and transfer assets, 
+> while providing the security and protections against attacks on those assets.
+> However, Move has been developed with use cases in mind outside a blockchain context as well.
+>
+> Move takes its cue from Rust by using resource types with move (hence the name)
+> semantics as an explicit representation of digital assets, such as currency.
+>
+> [...]
+> Move has all of the syntax and semantics you would expect from a first-class programming language. 
+> However, there is an entire architecture dedicated to creating, using, and executing code based on Move. 
+> The diagram below shows the architecture of Move as it pertains to the Diem Payment Network, 
+> from using the source language to script execution.
+>
+> ![](i/move-architecture.png)
+>
+> (Source: [Move Introduction](https://developers.diem.com/docs/move/overview))
+
+
+
+**Examples**
 
 [`p2p_payment.mvir`](contracts/snippets/p2p_payment.mvir) - Example of a peer-to-peer transaction script:
 
