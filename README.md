@@ -43,7 +43,11 @@ Appendix: 2010–2013: The rise and fall of Facebook Credits_
 [**[Libra is now Diem! New chiefs hired for launch in 2021!]**](https://www.diem.com/en-us/updates/diem-association/), Diem (formerly Libra Association) Press Release, December 1, 2020 -- _The Libra Association announces 
 the adoption of a new name and the recruitment of key executives, reinforcing its organizational independence [from Facebook]._
 
-Q: Why the name change? A: "The original [Libra] name was tied to an early iteration of the project that received a difficult reception from regulators. We have dramatically changed that proposition.", [says Stuart Levey](https://www.reuters.com/article/facebook-cryptocurrency-int-idUSKBN28B574), Chief of Diem Association (formerly Libra Assocation)
+Q: Why the name change?
+
+> A: "The original [Libra] name was tied to an early iteration of the project that received a difficult reception
+> from regulators. We have dramatically changed that proposition.", 
+> [says Stuart Levey](https://www.reuters.com/article/facebook-cryptocurrency-int-idUSKBN28B574), Chief of Diem Association (formerly Libra Assocation)
 
 
 [**Facebook's Libra may launch January 2021, with US dollars only - what this means**](https://davidgerard.co.uk/blockchain/2020/11/27/facebook-libra-may-launch-january-2021-with-us-dollars-only-what-this-means/) - 
