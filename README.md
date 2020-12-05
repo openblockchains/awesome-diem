@@ -46,7 +46,7 @@ the adoption of a new name and the recruitment of key executives, reinforcing it
 Q: Why the name change?
 
 > A: "The original [Libra] name was tied to an early iteration of the project that received a difficult reception
-> from regulators. We have dramatically changed that proposition [humbly starting with printing (private) Diem Dollars (≋USD) on an invite-only (private) ~~blockchain~~ database].", 
+> from regulators. We have dramatically changed that proposition [humbly starting with printing (private) Diem Dollars (≋USD) only on an invite-only (private) network.", 
 > says [Stuart Levey, Chief of Diem (formerly Libra) Association](https://www.reuters.com/article/facebook-cryptocurrency-int-idUSKBN28B574)
 
 
