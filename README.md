@@ -47,7 +47,7 @@ Q: Why the name change?
 
 > A: "The original [Libra] name was tied to an early iteration of the project that received a difficult reception
 > from regulators. We have dramatically changed that proposition.", 
-> [says Stuart Levey](https://www.reuters.com/article/facebook-cryptocurrency-int-idUSKBN28B574), Chief of Diem Association (formerly Libra Assocation)
+> says [Stuart Levey, Chief of Diem (formerly Libra) Association](https://www.reuters.com/article/facebook-cryptocurrency-int-idUSKBN28B574)
 
 
 [**Facebook's Libra may launch January 2021, with US dollars only - what this means**](https://davidgerard.co.uk/blockchain/2020/11/27/facebook-libra-may-launch-january-2021-with-us-dollars-only-what-this-means/) - 
