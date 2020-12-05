@@ -41,7 +41,7 @@ Appendix: 2010–2013: The rise and fall of Facebook Credits_
 ## What's News?
 
 [**[Libra is now Diem! New chiefs hired for launch in 2021!]**](https://www.diem.com/en-us/updates/diem-association/), Diem (formerly Libra Association) Press Release, December 1, 2020 -- _The Libra Association announces 
-the adoption of a new name and the recruitment of key executives, reinforcing its organizational independence [from Facebook]._
+the adoption of a new name and the recruitment of key [chief] executives, reinforcing [with smoke and mirrors] its organizational independence [from Facebook]._
 
 Q: Why the name change?
 
