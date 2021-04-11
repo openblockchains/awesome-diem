@@ -678,6 +678,8 @@ by Nattapon Nimakul, June 23, 2019
 - [Libraj](https://github.com/libra-vista/libraj) by Wen Shen Jun  - a java library client that can be used to interact with libra nodes
 - [Jlibra](https://github.com/ketola/jlibra) by Sauli Ketola  - a Java library for interacting with the Libra blockchain.
 
+**Move**
+- [TaoHe](https://github.com/taoheorg/taohe) by Ville Sundell - Collection of nestable smart contract resources for Diem and other MoveVM blockchains.
 
 ### Courses / Code Schools
 
